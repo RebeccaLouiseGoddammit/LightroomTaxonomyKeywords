@@ -11,7 +11,7 @@ its parents `Cardinals & Allies (Family Cardinalidae)`, `Perching Birds (Passeri
 Currently supports
 
 * Kingdom
-* Phylum
+* Phylum
 * Subphylum
 * Class
 * Order
