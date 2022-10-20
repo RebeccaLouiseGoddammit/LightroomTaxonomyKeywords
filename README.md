@@ -5,21 +5,14 @@ butterflys, dragonflys and domestic pets, mostly found in Texas, and growing as 
 
 Currently supports
 
-* Kingdom	
-
-* Phylum	
-
-* Subphylum	
-
-* Class	
-
-* Order	
-
-* Family	
-
-* Genus	
-
-* Species	
+* Kingdom
+* Phylum
+* Subphylum
+* Class
+* Order
+* Family
+* Genus
+* Species
 
 In the future may include other sub- and super- levels and tribe.
 
