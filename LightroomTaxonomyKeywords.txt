@@ -1,0 +1,4149 @@
+Animals : Kingdom Animalia
+	{Animals}
+	{Animalia}
+	Thorny-headed Worms (Phylum Acanthocephala)
+		{Thorny-headed Worms}
+		{Acanthocephala}
+	Segmented Worms (Phylum Annelida)
+		{Segmented Worms}
+		{Annelida}
+	Arthropods (Phylum Arthropoda)
+		{Arthropods}
+		{Arthropoda}
+		Chelicerates (Subphylum Chelicerata)
+			{Chelicerates}
+			{Chelicerata}
+			Arachnids (Class Arachnida)
+				{Arachnids}
+				{Arachnida}
+				Spiders (Order Araneae)
+					{Spiders}
+					{Araneae}
+				Orbweavers (Family Araneidae)
+					{Orbweavers}
+					{Araneidae}
+					Garden Orbweavers (Genus Argiope)
+						{Garden Orbweavers}
+						{Argiope}
+						Yellow Garden Spider (Argiope aurantia)
+							{Yellow Garden Spider}
+							{Argiope aurantia}
+					Spotted Orbweavers (Genus Neoscona)
+						{Spotted Orbweavers}
+						{Neoscona}
+						Spotted Orbweaver (Neoscona crucifera)
+							{Spotted Orbweaver}
+							{Neoscona crucifera}
+		Hexapods (Subphylum Hexapoda)
+			{Hexapods}
+			{Hexapoda}
+			Insects (Class Insecta)
+				{Insects}
+				{Insecta}
+				Beetles (Order Coleoptera)
+					{Beetles}
+					{Coleoptera}
+				Ground Beetles (Family Carabidae)
+					{Ground Beetles}
+					{Carabidae}
+					Elliptical-winged Tiger Beetles (Genus Ellipsoptera)
+						{Elliptical-winged Tiger Beetles}
+						{Ellipsoptera}
+						Coastal Tiger Beetle (Ellipsoptera hamata)
+							{Coastal Tiger Beetle}
+							{Ellipsoptera hamata}
+				Ants Bees Wasps & Sawflies (Order Hymenoptera)
+					{Ants Bees Wasps & Sawflies}
+					{Hymenoptera}
+				Honey Bees Bumble Bees & Allies (Family Apidae)
+					{Honey Bees Bumble Bees & Allies}
+					{Apidae}
+					Bumble Bees (Genus Bombus)
+						{Bumble Bees}
+						{Bombus}
+						Sonoran Bumble Bee (Bombus sonorus)
+							{Sonoran Bumble Bee}
+							{Bombus sonorus}
+				Ants (Family Formicidae)
+					{Ants}
+					{Formicidae}
+					Typical American Harvester Ants (Genus Pogonomyrmex)
+						{Typical American Harvester Ants}
+						{Pogonomyrmex}
+						Red Harvester Ant (Pogonomyrmex barbatus)
+							{Red Harvester Ant}
+							{Pogonomyrmex barbatus}
+				Velvet Ants (Family Mutillidae)
+					{Velvet Ants}
+					{Mutillidae}
+					Genus Dasymutilla
+						{Dasymutilla}
+						Klug's Velvet Ant (Dasymutilla klugii)
+							{Klug's Velvet Ant}
+							{Dasymutilla klugii}
+				Thread-waisted Wasps (Family Sphecidae)
+					{Thread-waisted Wasps}
+					{Sphecidae}
+					Genus Chlorion
+						{Chlorion}
+						Iridescent Cockroach-hunter Wasp (Chlorion cyaneum)
+							{Iridescent Cockroach-hunter Wasp}
+							{Chlorion cyaneum}
+				Hornets Paper Wasps Potter Wasps & Allies (Family Vespidae)
+					{Hornets Paper Wasps Potter Wasps & Allies}
+					{Vespidae}
+					Umbrella Paper Wasps (Genus Polistes)
+						{Umbrella Paper Wasps}
+						{Polistes}
+						Fine-backed Red Paper Wasp (Polistes carolina)
+							{Fine-backed Red Paper Wasp}
+							{Polistes carolina}
+				Butterflies & Moths (Order Lepidoptera)
+					{Butterflies & Moths}
+					{Lepidoptera}
+				Brush-footed Butterflies (Family Nymphalidae)
+					{Brush-footed Butterflies}
+					{Nymphalidae}
+					Tiger Milkweed Butterflies (Genus Danaus)
+						{Tiger Milkweed Butterflies}
+						{Danaus}
+						Queen (Danaus gilippus)
+							{Queen}
+							{Danaus gilippus}
+					Genus Dione
+						{Dione}
+						Gulf Fritillary (Dione vanillae)
+							{Gulf Fritillary}
+							{Dione vanillae}
+					Genus Euptoieta
+						{Euptoieta}
+						Variegated Fritillary (Euptoieta claudia)
+							{Variegated Fritillary}
+							{Euptoieta claudia}
+					Pearly-eyes & Allies (Genus Lethe)
+						{Pearly-eyes & Allies}
+						{Lethe}
+						Southern Pearly-eye (Lethe portlandia)
+							{Southern Pearly-eye}
+							{Lethe portlandia}
+					Genus Limenitis
+						{Limenitis}
+						Viceroy (Limenitis archippus)
+							{Viceroy}
+							{Limenitis archippus}
+				Swallowtails & Parnassians (Family Papilionidae)
+					{Swallowtails & Parnassians}
+					{Papilionidae}
+					Pipevine Swallowtails & Allies (Genus Battus)
+						{Pipevine Swallowtails & Allies}
+						{Battus}
+						Pipevine Swallowtail (Battus philenor)
+							{Pipevine Swallowtail}
+							{Battus philenor}
+					Common Swallowtails (Genus Papilio)
+						{Common Swallowtails}
+						{Papilio}
+						Black Swallowtail (Papilio polyxenes)
+							{Black Swallowtail}
+							{Papilio polyxenes}
+						Western Giant Swallowtail (Papilio rumiko)
+							{Western Giant Swallowtail}
+							{Papilio rumiko}
+				Family Pieridae (Family Pieridae)
+					{Pieridae}
+					Whites Yellows & Sulphurs (Genus Abaeis)
+						{Whites Yellows & Sulphurs}
+						{Abaeis}
+						Sleepy Orange (Abaeis nicippe)
+							{Sleepy Orange}
+							{Abaeis nicippe}
+				Dragonflies & Damselflies (Order Odonata)
+					{Dragonflies & Damselflies}
+					{Odonata}
+				Darners (Family Aeshnidae)
+					{Darners}
+					{Aeshnidae}
+					Green Darners (Genus Anax)
+						{Green Darners}
+						{Anax}
+						Common Green Darner (Anax junius)
+							{Common Green Darner}
+							{Anax junius}
+				Narrow-winged Damselflies (Family Coenagrionidae)
+					{Narrow-winged Damselflies}
+					{Coenagrionidae}
+					Dancers (Genus Argia)
+						{Dancers}
+						{Argia}
+						Springwater Dancer (Argia plana)
+							{Springwater Dancer}
+							{Argia plana}
+				Skimmers (Family Libellulidae)
+					{Skimmers}
+					{Libellulidae}
+					Small Pennants (Genus Celithemis)
+						{Small Pennants}
+						{Celithemis}
+						Halloween Pennant (Celithemis eponina)
+							{Halloween Pennant}
+							{Celithemis eponina}
+					Pondhawks (Genus Erythemis)
+						{Pondhawks}
+						{Erythemis}
+						Eastern Pondhawk (Erythemis simplicicollis)
+							{Eastern Pondhawk}
+							{Erythemis simplicicollis}
+					King Skimmers (Genus Libellula)
+						{King Skimmers}
+						{Libellula}
+						Neon Skimmer (Libellula croceipennis)
+							{Neon Skimmer}
+							{Libellula croceipennis}
+						Slaty Skimmer (Libellula incesta)
+							{Slaty Skimmer}
+							{Libellula incesta}
+						Widow Skimmer (Libellula luctuosa)
+							{Widow Skimmer}
+							{Libellula luctuosa}
+						Great Blue Skimmer (Libellula vibrans)
+							{Great Blue Skimmer}
+							{Libellula vibrans}
+					Amberwings (Genus Perithemis)
+						{Amberwings}
+						{Perithemis}
+						Eastern Amberwing (Perithemis Tenera)
+							{Eastern Amberwing}
+							{Perithemis Tenera}
+					Whitetails (Genus Plathemis)
+						{Whitetails}
+						{Plathemis}
+						Common Whitetail (Plathemis lydia)
+							{Common Whitetail}
+							{Plathemis lydia}
+					Saddlebag Gliders (Genus Tramea)
+						{Saddlebag Gliders}
+						{Tramea}
+						Carolina Saddlebags (Tramea carolina)
+							{Carolina Saddlebags}
+							{Tramea carolina}
+				Grasshoppers Crickets & Katydids (Order Orthoptera)
+					{Grasshoppers Crickets & Katydids}
+					{Orthoptera}
+				Lubber Grasshoppers (Family Romaleidae)
+					{Lubber Grasshoppers}
+					{Romaleidae}
+					Genus Romalea
+						{Romalea}
+						Eastern Lubber Grasshopper (Romalea microptera)
+							{Eastern Lubber Grasshopper}
+							{Romalea microptera}
+	Brachiopods (Phylum Brachiopoda)
+		{Brachiopods}
+		{Brachiopoda}
+	Bryozoans (Phylum Bryozoa)
+		{Bryozoans}
+		{Bryozoa}
+	Arrow Worms (Phylum Chaetognatha)
+		{Arrow Worms}
+		{Chaetognatha}
+	Chordates (Phylum Chordata)
+		{Chordates}
+		{Chordata}
+		Lancelets (Subphylum Cephalochordata)
+			{Lancelets}
+			{Cephalochordata}
+		Tunicates (Subphylum Tunicata)
+			{Tunicates}
+			{Tunicata}
+		Vertibrates (Subphylum Vertebrata)
+			{Vertibrates}
+			{Vertebrata}
+			Ray-finned Fishes (Class Actinopterygii)
+				{Ray-finned Fishes}
+				{Actinopterygii}
+				Mullets (Order Mugiliformes)
+					{Mullets}
+					{Mugiliformes}
+				Mullets (Family Mugilidae)
+					{Mullets}
+					{Mugilidae}
+					Common Mullets (Genus Mugil)
+						{Common Mullets}
+						{Mugil}
+						White Mullet (Mugil curema)
+							{White Mullet}
+							{Mugil curema}
+			Amphibians (Class Amphibia)
+				{Amphibians}
+				{Amphibia}
+				Frogs & Toads (Order Anura)
+					{Frogs & Toads}
+					{Anura}
+				Typical Frogs (Family Ranidae)
+					{Typical Frogs}
+					{Ranidae}
+					American Water Frogs (Genus Lithobates)
+						{American Water Frogs}
+						{Lithobates}
+						Green Frog (Lithobates clamitans)
+							{Green Frog}
+							{Lithobates clamitans}
+			Birds (Class Aves)
+				{Birds}
+				{Aves}
+				Hawks Eagles Kites & Allies (Order Accipitriformes)
+					{Hawks Eagles Kites & Allies}
+					{Accipitriformes}
+				Hawks Eagles & Kites (Family Accipitridae)
+					{Hawks Eagles & Kites}
+					{Accipitridae}
+					Accipiters (Genus Accipiter)
+						{Accipiters}
+						{Accipiter}
+						Cooper's Hawk (Accipiter cooperii)
+							{Cooper's Hawk}
+							{Accipiter cooperii}
+						Sharp-shinned Hawk (Accipiter striatus)
+							{Sharp-shinned Hawk}
+							{Accipiter striatus}
+					True Eagles (Genus Aquila)
+						{True Eagles}
+						{Aquila}
+						Golden Eagle (Aquila chrysaetos)
+							{Golden Eagle}
+							{Aquila chrysaetos}
+					Buteos (Genus Buteo)
+						{Buteos}
+						{Buteo}
+						Red-tailed Hawk (Buteo jamaicensis)
+							{Red-tailed Hawk}
+							{Buteo jamaicensis}
+						Rough-legged Hawk (Buteo lagopus)
+							{Rough-legged Hawk}
+							{Buteo lagopus}
+						Red-shouldered Hawk (Buteo lineatus)
+							{Red-shouldered Hawk}
+							{Buteo lineatus}
+						Broad-winged Hawk (Buteo platypterus)
+							{Broad-winged Hawk}
+							{Buteo platypterus}
+						Ferruginous Hawk (Buteo regalis)
+							{Ferruginous Hawk}
+							{Buteo regalis}
+						Swainson's Hawk (Buteo swainsoni)
+							{Swainson's Hawk}
+							{Buteo swainsoni}
+					Black Hawks and Allies (Genus Buteogallus)
+						{Black Hawks and Allies}
+						{Buteogallus}
+						Common Black Hawk (Buteogallus anthracinus)
+							{Common Black Hawk}
+							{Buteogallus anthracinus}
+					Harriers (Genus Circus)
+						{Harriers}
+						{Circus}
+						Northern Harrier (Circus hudsonius)
+							{Northern Harrier}
+							{Circus hudsonius}
+					Elanoides Kites (Genus Elanoides)
+						{Elanoides Kites}
+						{Elanoides}
+						Swallow-tailed Kite (Elanoides forficatus)
+							{Swallow-tailed Kite}
+							{Elanoides forficatus}
+					Elanus Kites (Genus Elanus)
+						{Elanus Kites}
+						{Elanus}
+						White-tailed Kite (Elanus leucurus)
+							{White-tailed Kite}
+							{Elanus leucurus}
+					Geranoaetus Hawks (Genus Geranoaetus)
+						{Geranoaetus Hawks}
+						{Geranoaetus}
+						White-tailed Hawk (Geranoaetus albicaudatus)
+							{White-tailed Hawk}
+							{Geranoaetus albicaudatus}
+					Sea-Eagles and Fish-Eagles (Genus Haliaeetus)
+						{Sea-Eagles and Fish-Eagles}
+						{Haliaeetus}
+						Bald Eagle (Haliaeetus leucocephalus)
+							{Bald Eagle}
+							{Haliaeetus leucocephalus}
+					Ictinia Kites (Genus Ictinia)
+						{Ictinia Kites}
+						{Ictinia}
+						Mississippi Kite (Ictinia mississippiensis)
+							{Mississippi Kite}
+							{Ictinia mississippiensis}
+				Ospreys (Family Pandionidae)
+					{Ospreys}
+					{Pandionidae}
+					Ospreys (Genus Pandion)
+						{Ospreys}
+						{Pandion}
+						Osprey (Pandion haliaetus)
+							{Osprey}
+							{Pandion haliaetus}
+				Secretarybirds (Family Sagittariidae)
+					{Secretarybirds}
+					{Sagittariidae}
+				Waterfowl (Order Anseriformes)
+					{Waterfowl}
+					{Anseriformes}
+				Ducks Geese & Swans (Family Anatidae)
+					{Ducks Geese & Swans}
+					{Anatidae}
+					Wood & Mandarin Ducks (Genus Aix)
+						{Wood & Mandarin Ducks}
+						{Aix}
+						Mandarin Duck (Aix galericulata)
+							{Mandarin Duck}
+							{Aix galericulata}
+						Wood Duck (Aix sponsa)
+							{Wood Duck}
+							{Aix sponsa}
+					African and Mascarene Sheldgeese (Genus Alopochen)
+						{African and Mascarene Sheldgeese}
+						{Alopochen}
+						Egyptian Goose (Alopochen aegyptiaca)
+							{Egyptian Goose}
+							{Alopochen aegyptiaca}
+					Mallards Pintails & Allies (Genus Anas)
+						{Mallards Pintails & Allies}
+						{Anas}
+						Northern Pintail (Anas acuta)
+							{Northern Pintail}
+							{Anas acuta}
+						Green-winged Teal (Anas crecca)
+							{Green-winged Teal}
+							{Anas crecca}
+						Mexican Duck (Anas diazi)
+							{Mexican Duck}
+							{Anas diazi}
+						Mottled Duck (Anas fulvigula)
+							{Mottled Duck}
+							{Anas fulvigula}
+						Mallard (Anas platyrhynchos)
+							{Mallard}
+							{Anas platyrhynchos}
+						American Black Duck (Anas rubripes)
+							{American Black Duck}
+							{Anas rubripes}
+					Grey Geese (Genus Anser)
+						{Grey Geese}
+						{Anser}
+						Greater White-fronted Goose (Anser albifrons)
+							{Greater White-fronted Goose}
+							{Anser albifrons}
+						Domestic Graylag Goose (Anser anser)
+							{Domestic Graylag Goose}
+							{Anser anser}
+						Pink-footed Goose (Anser brachyrhynchus)
+							{Pink-footed Goose}
+							{Anser brachyrhynchus}
+						Snow Goose (Anser caerulescens)
+							{Snow Goose}
+							{Anser caerulescens}
+						Swan Goose (Anser cygnoides)
+							{Swan Goose}
+							{Anser cygnoides}
+						Ross's Goose (Anser rossii)
+							{Ross's Goose}
+							{Anser rossii}
+						Tundra Bean Goose (Anser serrirostris)
+							{Tundra Bean Goose}
+							{Anser serrirostris}
+					Scaups Pochards and Allies (Genus Aythya)
+						{Scaups Pochards and Allies}
+						{Aythya}
+						Lesser Scaup (Aythya affinis)
+							{Lesser Scaup}
+							{Aythya affinis}
+						Redhead (Aythya americana)
+							{Redhead}
+							{Aythya americana}
+						Ring-necked Duck (Aythya collaris)
+							{Ring-necked Duck}
+							{Aythya collaris}
+						Greater Scaup (Aythya marila)
+							{Greater Scaup}
+							{Aythya marila}
+						Canvasback (Aythya valisineria)
+							{Canvasback}
+							{Aythya valisineria}
+					Black Geese (Genus Branta)
+						{Black Geese}
+						{Branta}
+						Atlantic Brant (Branta bernicla)
+							{Atlantic Brant}
+							{Branta bernicla}
+						Canada Goose (Branta canadensis)
+							{Canada Goose}
+							{Branta canadensis}
+						Cackling Goose (Branta hutchinsii)
+							{Cackling Goose}
+							{Branta hutchinsii}
+					Goldeneyes & Bufflehead (Genus Bucephala)
+						{Goldeneyes & Bufflehead}
+						{Bucephala}
+						Bufflehead (Bucephala albeola)
+							{Bufflehead}
+							{Bucephala albeola}
+						Common Goldeneye (Bucephala clangula)
+							{Common Goldeneye}
+							{Bucephala clangula}
+						Barrow's Goldeneye (Bucephala islandica)
+							{Barrow's Goldeneye}
+							{Bucephala islandica}
+					Muscovy Ducks (Genus Cairina)
+						{Muscovy Ducks}
+						{Cairina}
+						Domestic Muscovy Duck (Cairina moschata)
+							{Domestic Muscovy Duck}
+							{Cairina moschata}
+					Long-tailed Ducks (Genus Clangula)
+						{Long-tailed Ducks}
+						{Clangula}
+						Long-tailed Duck (Clangula hyemalis)
+							{Long-tailed Duck}
+							{Clangula hyemalis}
+					True Swans (Genus Cygnus)
+						{True Swans}
+						{Cygnus}
+						Black Swan (Cygnus atratus)
+							{Black Swan}
+							{Cygnus atratus}
+						Trumpeter Swan (Cygnus buccinator)
+							{Trumpeter Swan}
+							{Cygnus buccinator}
+						Tundra Swan (Cygnus columbianus)
+							{Tundra Swan}
+							{Cygnus columbianus}
+						Whooper Swan (Cygnus cygnus)
+							{Whooper Swan}
+							{Cygnus cygnus}
+						Mute Swan (Cygnus olor)
+							{Mute Swan}
+							{Cygnus olor}
+					Whistling-ducks (Genus Dendrocygna)
+						{Whistling-ducks}
+						{Dendrocygna}
+						West Indian Whistling-Duck (Dendrocygna arborea)
+							{West Indian Whistling-Duck}
+							{Dendrocygna arborea}
+						Black-bellied Whistling-Duck (Dendrocygna autumnalis)
+							{Black-bellied Whistling-Duck}
+							{Dendrocygna autumnalis}
+						Fulvous Whistling-Duck (Dendrocygna bicolor)
+							{Fulvous Whistling-Duck}
+							{Dendrocygna bicolor}
+					Harlequin Ducks (Genus Histrionicus)
+						{Harlequin Ducks}
+						{Histrionicus}
+						Harlequin Duck (Histrionicus histrionicus)
+							{Harlequin Duck}
+							{Histrionicus histrionicus}
+					Hooded Mergansers (Genus Lophodytes)
+						{Hooded Mergansers}
+						{Lophodytes}
+						Hooded Merganser (Lophodytes cucullatus)
+							{Hooded Merganser}
+							{Lophodytes cucullatus}
+					Wigeons & Allies (Genus Mareca)
+						{Wigeons & Allies}
+						{Mareca}
+						American Wigeon (Mareca americana)
+							{American Wigeon}
+							{Mareca americana}
+						Eurasian Wigeon (Mareca penelope)
+							{Eurasian Wigeon}
+							{Mareca penelope}
+						Gadwall (Mareca strepera)
+							{Gadwall}
+							{Mareca strepera}
+					Scoters (Genus Melanitta)
+						{Scoters}
+						{Melanitta}
+						Black Scoter (Melanitta americana)
+							{Black Scoter}
+							{Melanitta americana}
+						White-winged Scoter (Melanitta deglandi)
+							{White-winged Scoter}
+							{Melanitta deglandi}
+						Surf Scoter (Melanitta perspicillata)
+							{Surf Scoter}
+							{Melanitta perspicillata}
+					Typical Mergansers (Genus Mergus)
+						{Typical Mergansers}
+						{Mergus}
+						Common Merganser (Mergus merganser)
+							{Common Merganser}
+							{Mergus merganser}
+						Red-breasted Merganser (Mergus serrator)
+							{Red-breasted Merganser}
+							{Mergus serrator}
+					Typical Stifftails (Genus Oxyura)
+						{Typical Stifftails}
+						{Oxyura}
+						Ruddy Duck (Oxyura jamaicensis)
+							{Ruddy Duck}
+							{Oxyura jamaicensis}
+					Typical Eiders (Genus Somateria)
+						{Typical Eiders}
+						{Somateria}
+						Common Eider (Somateria mollissima)
+							{Common Eider}
+							{Somateria mollissima}
+						King Eider (Somateria spectabilis)
+							{King Eider}
+							{Somateria spectabilis}
+					Shovelers and Allies (Genus Spatula)
+						{Shovelers and Allies}
+						{Spatula}
+						Northern Shoveler (Spatula clypeata)
+							{Northern Shoveler}
+							{Spatula clypeata}
+						Cinnamon Teal (Spatula cyanoptera)
+							{Cinnamon Teal}
+							{Spatula cyanoptera}
+						Blue-winged Teal (Spatula discors)
+							{Blue-winged Teal}
+							{Spatula discors}
+				Screamers (Family Anhimidae)
+					{Screamers}
+					{Anhimidae}
+				Magpie Geese (Family Anseranatidae)
+					{Magpie Geese}
+					{Anseranatidae}
+				Kiwis (Order Apterygiformes)
+					{Kiwis}
+					{Apterygiformes}
+				Hornbills & Hoopoes (Order Bucerotiformes)
+					{Hornbills & Hoopoes}
+					{Bucerotiformes}
+				Nightjars Swifts Hummingbirds & Allies (Order Caprimulgiformes)
+					{Nightjars Swifts Hummingbirds & Allies}
+					{Caprimulgiformes}
+				Owlet-nightjars (Family Aegothelidae)
+					{Owlet-nightjars}
+					{Aegothelidae}
+				Swifts (Family Apodidae)
+					{Swifts}
+					{Apodidae}
+					Chaetura Swifts (Genus Chaetura)
+						{Chaetura Swifts}
+						{Chaetura}
+						Chimney Swift (Chaetura pelagica)
+							{Chimney Swift}
+							{Chaetura pelagica}
+				Nightjars & Nighthawks (Family Caprimulgidae)
+					{Nightjars & Nighthawks}
+					{Caprimulgidae}
+					Typical American Nightjars (Genus Antrostomus)
+						{Typical American Nightjars}
+						{Antrostomus}
+						Chuck-will's-widow (Antrostomus carolinensis)
+							{Chuck-will's-widow}
+							{Antrostomus carolinensis}
+						Eastern Whip-poor-will (Antrostomus vociferus)
+							{Eastern Whip-poor-will}
+							{Antrostomus vociferus}
+					Typical Nighthawks (Genus Chordeiles)
+						{Typical Nighthawks}
+						{Chordeiles}
+						Common Nighthawk (Chordeiles minor)
+							{Common Nighthawk}
+							{Chordeiles minor}
+				Treeswifts (Family Hemiprocnidae)
+					{Treeswifts}
+					{Hemiprocnidae}
+				Potoos (Family Nyctibiidae)
+					{Potoos}
+					{Nyctibiidae}
+				Frogmouths (Family Podargidae)
+					{Frogmouths}
+					{Podargidae}
+				Oilbirds (Family Steatornithidae)
+					{Oilbirds}
+					{Steatornithidae}
+				Hummingbirds (Family Trochilidae)
+					{Hummingbirds}
+					{Trochilidae}
+					Genus Amazilia
+						{Amazilia}
+						Buff-bellied Hummingbird (Amazilia yucatanensis)
+							{Buff-bellied Hummingbird}
+							{Amazilia yucatanensis}
+					Ruby-throated & Black-chinned Hummingbirds (Genus Archilochus)
+						{Ruby-throated & Black-chinned Hummingbirds}
+						{Archilochus}
+						Black-chinned Hummingbird (Archilochus alexandri)
+							{Black-chinned Hummingbird}
+							{Archilochus alexandri}
+						Ruby-throated Hummingbird (Archilochus colubris)
+							{Ruby-throated Hummingbird}
+							{Archilochus colubris}
+					Genus Cynanthus
+						{Cynanthus}
+						Broad-billed Hummingbird (Cynanthus latirostris)
+							{Broad-billed Hummingbird}
+							{Cynanthus latirostris}
+					Rufous Allen's and Allied Hummingbirds (Genus Selasphorus)
+						{Rufous Allen's and Allied Hummingbirds}
+						{Selasphorus}
+						Calliope Hummingbird (Selasphorus calliope)
+							{Calliope Hummingbird}
+							{Selasphorus calliope}
+						Broad-tailed Hummingbird (Selasphorus platycercus)
+							{Broad-tailed Hummingbird}
+							{Selasphorus platycercus}
+						Rufous Hummingbird (Selasphorus rufus)
+							{Rufous Hummingbird}
+							{Selasphorus rufus}
+						Allen's Hummingbird (Selasphorus sasin)
+							{Allen's Hummingbird}
+							{Selasphorus sasin}
+				Seriemas (Order Cariamiformes)
+					{Seriemas}
+					{Cariamiformes}
+				Cassowaries & Emu (Order Casuariiformes)
+					{Cassowaries & Emu}
+					{Casuariiformes}
+				New World Vultures (Order Cathartiformes)
+					{New World Vultures}
+					{Cathartiformes}
+				New World Vultures (Family Cathartidae)
+					{New World Vultures}
+					{Cathartidae}
+					Turkey & Yellow-headed Vultures (Genus Cathartes)
+						{Turkey & Yellow-headed Vultures}
+						{Cathartes}
+						Turkey Vulture (Cathartes aura)
+							{Turkey Vulture}
+							{Cathartes aura}
+					American Black Vultures (Genus Coragyps)
+						{American Black Vultures}
+						{Coragyps}
+						Black Vulture (Coragyps atratus)
+							{Black Vulture}
+							{Coragyps atratus}
+				Shorebirds & Allies (Order Charadriiformes)
+					{Shorebirds & Allies}
+					{Charadriiformes}
+				Auks Murres Guillemots & Puffins (Family Alcidae)
+					{Auks Murres Guillemots & Puffins}
+					{Alcidae}
+					Mygalomorphs (Genus Alca)
+						{Mygalomorphs}
+						{Alca}
+						Razorbill (Alca torda)
+							{Razorbill}
+							{Alca torda}
+					Murres (Genus Uria)
+						{Murres}
+						{Uria}
+						Thick-billed Murre (Uria lomvia)
+							{Thick-billed Murre}
+							{Uria lomvia}
+				Thick-knees & Stone-curlews (Family Burhinidae)
+					{Thick-knees & Stone-curlews}
+					{Burhinidae}
+				Plovers & Lapwings (Family Charadriidae)
+					{Plovers & Lapwings}
+					{Charadriidae}
+					Typical Plovers (Genus Charadrius)
+						{Typical Plovers}
+						{Charadrius}
+						Piping Plover (Charadrius melodus)
+							{Piping Plover}
+							{Charadrius melodus}
+						Snowy Plover (Charadrius nivosus)
+							{Snowy Plover}
+							{Charadrius nivosus}
+						Semipalmated Plover (Charadrius semipalmatus)
+							{Semipalmated Plover}
+							{Charadrius semipalmatus}
+						Killdeer (Charadrius vociferus)
+							{Killdeer}
+							{Charadrius vociferus}
+						Wilson's Plover (Charadrius wilsonia)
+							{Wilson's Plover}
+							{Charadrius wilsonia}
+					Golden Plovers and Black-bellied Plover (Genus Pluvialis)
+						{Golden Plovers and Black-bellied Plover}
+						{Pluvialis}
+						American Golden-Plover (Pluvialis dominica)
+							{American Golden-Plover}
+							{Pluvialis dominica}
+						Black-bellied Plover (Pluvialis squatarola)
+							{Black-bellied Plover}
+							{Pluvialis squatarola}
+					Lapwings (Genus Vanellus)
+						{Lapwings}
+						{Vanellus}
+						Northern Lapwing (Vanellus vanellus)
+							{Northern Lapwing}
+							{Vanellus vanellus}
+				Sheathbills (Family Chionidae)
+					{Sheathbills}
+					{Chionidae}
+				Crab-plovers (Family Dromadidae)
+					{Crab-plovers}
+					{Dromadidae}
+				Pratincoles & Coursers (Family Glareolidae)
+					{Pratincoles & Coursers}
+					{Glareolidae}
+				Oystercatchers (Family Haematopodidae)
+					{Oystercatchers}
+					{Haematopodidae}
+					Oystercatchers (Genus Haematopus)
+						{Oystercatchers}
+						{Haematopus}
+						American Oystercatcher (Haematopus palliatus)
+							{American Oystercatcher}
+							{Haematopus palliatus}
+				Ibisbills (Family Ibidorhynchidae)
+					{Ibisbills}
+					{Ibidorhynchidae}
+				Jacanas (Family Jacanidae)
+					{Jacanas}
+					{Jacanidae}
+				Gulls Terns & Skimmers (Family Laridae)
+					{Gulls Terns & Skimmers}
+					{Laridae}
+					Marsh Terns (Genus Chlidonias)
+						{Marsh Terns}
+						{Chlidonias}
+						Black Tern (Chlidonias niger)
+							{Black Tern}
+							{Chlidonias niger}
+					Masked Gulls (Genus Chroicocephalus)
+						{Masked Gulls}
+						{Chroicocephalus}
+						Bonaparte's Gull (Chroicocephalus philadelphia)
+							{Bonaparte's Gull}
+							{Chroicocephalus philadelphia}
+						Black-headed Gull (Chroicocephalus ridibundus)
+							{Black-headed Gull}
+							{Chroicocephalus ridibundus}
+					Gelochelidon Terns (Genus Gelochelidon)
+						{Gelochelidon Terns}
+						{Gelochelidon}
+						Gull-billed Tern (Gelochelidon nilotica)
+							{Gull-billed Tern}
+							{Gelochelidon nilotica}
+					Genus Hydroprogne
+						{Hydroprogne}
+						Caspian Tern (Hydroprogne caspia)
+							{Caspian Tern}
+							{Hydroprogne caspia}
+					Large White-headed Gulls (Genus Larus)
+						{Large White-headed Gulls}
+						{Larus}
+						Herring Gull (Larus argentatus)
+							{Herring Gull}
+							{Larus argentatus}
+						Short-billed Gull (Larus brachyrhynchus)
+							{Short-billed Gull}
+							{Larus brachyrhynchus}
+						Ring-billed Gull (Larus delawarensis)
+							{Ring-billed Gull}
+							{Larus delawarensis}
+						Lesser Black-backed Gull (Larus fuscus)
+							{Lesser Black-backed Gull}
+							{Larus fuscus}
+						Iceland Gull (Larus glaucoides)
+							{Iceland Gull}
+							{Larus glaucoides}
+						Glaucous Gull (Larus hyperboreus)
+							{Glaucous Gull}
+							{Larus hyperboreus}
+						Great Black-backed Gull (Larus marinus)
+							{Great Black-backed Gull}
+							{Larus marinus}
+						Western Gull (Larus occidentalis)
+							{Western Gull}
+							{Larus occidentalis}
+						Slaty-backed Gull (Larus schistisagus)
+							{Slaty-backed Gull}
+							{Larus schistisagus}
+					Hooded Gulls (Genus Leucophaeus)
+						{Hooded Gulls}
+						{Leucophaeus}
+						Laughing Gull (Leucophaeus atricilla)
+							{Laughing Gull}
+							{Leucophaeus atricilla}
+						Franklin's Gull (Leucophaeus pipixcan)
+							{Franklin's Gull}
+							{Leucophaeus pipixcan}
+					Kittiwakes (Genus Rissa)
+						{Kittiwakes}
+						{Rissa}
+						Black-legged Kittiwake (Rissa tridactyla)
+							{Black-legged Kittiwake}
+							{Rissa tridactyla}
+					Skimmers (Genus Rynchops)
+						{Skimmers}
+						{Rynchops}
+						Black Skimmer (Rynchops niger)
+							{Black Skimmer}
+							{Rynchops niger}
+					Typical Terns (Genus Sterna)
+						{Typical Terns}
+						{Sterna}
+						Roseate Tern (Sterna dougallii)
+							{Roseate Tern}
+							{Sterna dougallii}
+						Forster's Tern (Sterna forsteri)
+							{Forster's Tern}
+							{Sterna forsteri}
+						Common Tern (Sterna hirundo)
+							{Common Tern}
+							{Sterna hirundo}
+						Arctic Tern (Sterna paradisaea)
+							{Arctic Tern}
+							{Sterna paradisaea}
+					Small Terns (Genus Sternula)
+						{Small Terns}
+						{Sternula}
+						Least Tern (Sternula antillarum)
+							{Least Tern}
+							{Sternula antillarum}
+					Crested Terns (Genus Thalasseus)
+						{Crested Terns}
+						{Thalasseus}
+						Royal Tern (Thalasseus maximus)
+							{Royal Tern}
+							{Thalasseus maximus}
+						Sandwich Tern (Thalasseus sandvicensis)
+							{Sandwich Tern}
+							{Thalasseus sandvicensis}
+				Plains-wanderers (Family Pedionomidae)
+					{Plains-wanderers}
+					{Pedionomidae}
+				Magellanic Plovers (Family Pluvianellidae)
+					{Magellanic Plovers}
+					{Pluvianellidae}
+				Egyptian Plovers (Family Pluvianidae)
+					{Egyptian Plovers}
+					{Pluvianidae}
+				Stilts & Avocets (Family Recurvirostridae)
+					{Stilts & Avocets}
+					{Recurvirostridae}
+					Typical Stilts (Genus Himantopus)
+						{Typical Stilts}
+						{Himantopus}
+						Black-necked Stilt (Himantopus mexicanus)
+							{Black-necked Stilt}
+							{Himantopus mexicanus}
+					Avocets (Genus Recurvirostra)
+						{Avocets}
+						{Recurvirostra}
+						American Avocet (Recurvirostra americana)
+							{American Avocet}
+							{Recurvirostra americana}
+				Painted-snipes (Family Rostratulidae)
+					{Painted-snipes}
+					{Rostratulidae}
+				Sandpipers & Allies (Family Scolopacidae)
+					{Sandpipers & Allies}
+					{Scolopacidae}
+					Common & Spotted Sandpipers (Genus Actitis)
+						{Common & Spotted Sandpipers}
+						{Actitis}
+						Spotted Sandpiper (Actitis macularius)
+							{Spotted Sandpiper}
+							{Actitis macularius}
+					Turnstones (Genus Arenaria)
+						{Turnstones}
+						{Arenaria}
+						Ruddy Turnstone (Arenaria interpres)
+							{Ruddy Turnstone}
+							{Arenaria interpres}
+					Genus Bartramia
+						{Bartramia}
+						Upland Sandpiper (Bartramia longicauda)
+							{Upland Sandpiper}
+							{Bartramia longicauda}
+					Calidris Sandpipers (Genus Calidris)
+						{Calidris Sandpipers}
+						{Calidris}
+						Sanderling (Calidris alba)
+							{Sanderling}
+							{Calidris alba}
+						Dunlin (Calidris alpina)
+							{Dunlin}
+							{Calidris alpina}
+						Baird's Sandpiper (Calidris bairdii)
+							{Baird's Sandpiper}
+							{Calidris bairdii}
+						Red Knot (Calidris canutus)
+							{Red Knot}
+							{Calidris canutus}
+						Curlew Sandpiper (Calidris ferruginea)
+							{Curlew Sandpiper}
+							{Calidris ferruginea}
+						White-rumped Sandpiper (Calidris fuscicollis)
+							{White-rumped Sandpiper}
+							{Calidris fuscicollis}
+						Stilt Sandpiper (Calidris himantopus)
+							{Stilt Sandpiper}
+							{Calidris himantopus}
+						Purple Sandpiper (Calidris maritima)
+							{Purple Sandpiper}
+							{Calidris maritima}
+						Western Sandpiper (Calidris mauri)
+							{Western Sandpiper}
+							{Calidris mauri}
+						Pectoral Sandpiper (Calidris melanotos)
+							{Pectoral Sandpiper}
+							{Calidris melanotos}
+						Least Sandpiper (Calidris minutilla)
+							{Least Sandpiper}
+							{Calidris minutilla}
+						Semipalmated Sandpiper (Calidris pusilla)
+							{Semipalmated Sandpiper}
+							{Calidris pusilla}
+						Buff-breasted Sandpiper (Calidris subruficollis)
+							{Buff-breasted Sandpiper}
+							{Calidris subruficollis}
+					Typical Snipes (Genus Gallinago)
+						{Typical Snipes}
+						{Gallinago}
+						Wilson's Snipe (Gallinago delicata)
+							{Wilson's Snipe}
+							{Gallinago delicata}
+					Dowitchers (Genus Limnodromus)
+						{Dowitchers}
+						{Limnodromus}
+						Short-billed Dowitcher (Limnodromus griseus)
+							{Short-billed Dowitcher}
+							{Limnodromus griseus}
+						Long-billed Dowitcher (Limnodromus scolopaceus)
+							{Long-billed Dowitcher}
+							{Limnodromus scolopaceus}
+					Godwits (Genus Limosa)
+						{Godwits}
+						{Limosa}
+						Marbled Godwit (Limosa fedoa)
+							{Marbled Godwit}
+							{Limosa fedoa}
+						Hudsonian Godwit (Limosa haemastica)
+							{Hudsonian Godwit}
+							{Limosa haemastica}
+						Bar-tailed Godwit (Limosa lapponica)
+							{Bar-tailed Godwit}
+							{Limosa lapponica}
+					Curlews (Genus Numenius)
+						{Curlews}
+						{Numenius}
+						Long-billed Curlew (Numenius americanus)
+							{Long-billed Curlew}
+							{Numenius americanus}
+						Whimbrel (Numenius phaeopus)
+							{Whimbrel}
+							{Numenius phaeopus}
+					Phalaropes (Genus Phalaropus)
+						{Phalaropes}
+						{Phalaropus}
+						Red Phalarope (Phalaropus fulicarius)
+							{Red Phalarope}
+							{Phalaropus fulicarius}
+						Red-necked Phalarope (Phalaropus lobatus)
+							{Red-necked Phalarope}
+							{Phalaropus lobatus}
+						Wilson's Phalarope (Phalaropus tricolor)
+							{Wilson's Phalarope}
+							{Phalaropus tricolor}
+					Woodcocks (Genus Scolopax)
+						{Woodcocks}
+						{Scolopax}
+						American Woodcock (Scolopax minor)
+							{American Woodcock}
+							{Scolopax minor}
+					Shanks Tattlers & Allies (Genus Tringa)
+						{Shanks Tattlers & Allies}
+						{Tringa}
+						Lesser Yellowlegs (Tringa flavipes)
+							{Lesser Yellowlegs}
+							{Tringa flavipes}
+						Greater Yellowlegs (Tringa melanoleuca)
+							{Greater Yellowlegs}
+							{Tringa melanoleuca}
+						Willet (Tringa semipalmata)
+							{Willet}
+							{Tringa semipalmata}
+						Solitary Sandpiper (Tringa solitaria)
+							{Solitary Sandpiper}
+							{Tringa solitaria}
+				Skuas & Jaegers (Family Stercorariidae)
+					{Skuas & Jaegers}
+					{Stercorariidae}
+				Seedsnipes (Family Thinocoridae)
+					{Seedsnipes}
+					{Thinocoridae}
+				Buttonquails (Family Turnicidae)
+					{Buttonquails}
+					{Turnicidae}
+				Storks (Order Ciconiiformes)
+					{Storks}
+					{Ciconiiformes}
+				Storks (Family Ciconiidae)
+					{Storks}
+					{Ciconiidae}
+					Mycteria Storks (Genus Mycteria)
+						{Mycteria Storks}
+						{Mycteria}
+						Wood Stork (Mycteria americana)
+							{Wood Stork}
+							{Mycteria americana}
+				Mousebirds (Order Coliiformes)
+					{Mousebirds}
+					{Coliiformes}
+				Pigeons & Doves (Order Columbiformes)
+					{Pigeons & Doves}
+					{Columbiformes}
+				Pigeons & Doves (Family Columbidae)
+					{Pigeons & Doves}
+					{Columbidae}
+					Old World Pigeons (Genus Columba)
+						{Old World Pigeons}
+						{Columba}
+						Rock Pigeon (Columba livia)
+							{Rock Pigeon}
+							{Columba livia}
+					Small Ground Doves (Genus Columbina)
+						{Small Ground Doves}
+						{Columbina}
+						Inca Dove (Columbina inca)
+							{Inca Dove}
+							{Columbina inca}
+					Turtle-Doves and Collared-Doves (Genus Streptopelia)
+						{Turtle-Doves and Collared-Doves}
+						{Streptopelia}
+						Eurasian Collared-Dove (Streptopelia decaocto)
+							{Eurasian Collared-Dove}
+							{Streptopelia decaocto}
+					Zenaida Doves (Genus Zenaida)
+						{Zenaida Doves}
+						{Zenaida}
+						White-winged Dove (Zenaida asiatica)
+							{White-winged Dove}
+							{Zenaida asiatica}
+						Mourning Dove (Zenaida macroura)
+							{Mourning Dove}
+							{Zenaida macroura}
+				Kingfishers & Allies (Order Coraciiformes)
+					{Kingfishers & Allies}
+					{Coraciiformes}
+				Kingfishers (Family Alcedinidae)
+					{Kingfishers}
+					{Alcedinidae}
+					Large Crested Kingfishers (Genus Megaceryle)
+						{Large Crested Kingfishers}
+						{Megaceryle}
+						Belted Kingfisher (Megaceryle alcyon)
+							{Belted Kingfisher}
+							{Megaceryle alcyon}
+				Ground-rollers (Family Brachypteraciidae)
+					{Ground-rollers}
+					{Brachypteraciidae}
+				Rollers (Family Coraciidae)
+					{Rollers}
+					{Coraciidae}
+				Bee-eaters (Family Meropidae)
+					{Bee-eaters}
+					{Meropidae}
+				Motmots (Family Momotidae)
+					{Motmots}
+					{Momotidae}
+				Todies (Family Todidae)
+					{Todies}
+					{Todidae}
+				Cuckoos (Order Cuculiformes)
+					{Cuckoos}
+					{Cuculiformes}
+				Cuckoos (Family Cuculidae)
+					{Cuckoos}
+					{Cuculidae}
+					Coccyzus Cuckoos (Genus Coccyzus)
+						{Coccyzus Cuckoos}
+						{Coccyzus}
+						Yellow-billed Cuckoo (Coccyzus americanus)
+							{Yellow-billed Cuckoo}
+							{Coccyzus americanus}
+						Black-billed Cuckoo (Coccyzus erythropthalmus)
+							{Black-billed Cuckoo}
+							{Coccyzus erythropthalmus}
+					Anis (Genus Crotophaga)
+						{Anis}
+						{Crotophaga}
+						Groove-billed Ani (Crotophaga sulcirostris)
+							{Groove-billed Ani}
+							{Crotophaga sulcirostris}
+					Roadrunners (Genus Geococcyx)
+						{Roadrunners}
+						{Geococcyx}
+						Greater Roadrunner (Geococcyx californianus)
+							{Greater Roadrunner}
+							{Geococcyx californianus}
+				Kagu & Sunbittern (Order Eurypygiformes)
+					{Kagu & Sunbittern}
+					{Eurypygiformes}
+				Falcons & Caracaras (Order Falconiformes)
+					{Falcons & Caracaras}
+					{Falconiformes}
+				Falcons & Caracaras (Family Falconidae)
+					{Falcons & Caracaras}
+					{Falconidae}
+					Crested Caracaras (Genus Caracara)
+						{Crested Caracaras}
+						{Caracara}
+						Crested Caracara (Caracara plancus)
+							{Crested Caracara}
+							{Caracara plancus}
+					Typical Falcons (Genus Falco)
+						{Typical Falcons}
+						{Falco}
+						Merlin (Falco columbarius)
+							{Merlin}
+							{Falco columbarius}
+						Peregrine Falcon (Falco peregrinus)
+							{Peregrine Falcon}
+							{Falco peregrinus}
+						Gyrfalcon (Falco rusticolus)
+							{Gyrfalcon}
+							{Falco rusticolus}
+						American Kestrel (Falco sparverius)
+							{American Kestrel}
+							{Falco sparverius}
+				Jacamars & Puffbirds (Order Galbuliformes)
+					{Jacamars & Puffbirds}
+					{Galbuliformes}
+				Landfowl (Order Galliformes)
+					{Landfowl}
+					{Galliformes}
+				Guans Chachalacas & Curassows (Family Cracidae)
+					{Guans Chachalacas & Curassows}
+					{Cracidae}
+				Megapodes (Family Megapodiidae)
+					{Megapodes}
+					{Megapodiidae}
+				Guineafowl (Family Numididae)
+					{Guineafowl}
+					{Numididae}
+					Genus Numida
+						{Numida}
+						Helmeted Guineafowl (Numida meleagris)
+							{Helmeted Guineafowl}
+							{Numida meleagris}
+				New World Quails (Family Odontophoridae)
+					{New World Quails}
+					{Odontophoridae}
+					Bobwhites (Genus Colinus)
+						{Bobwhites}
+						{Colinus}
+						Northern Bobwhite (Colinus virginianus)
+							{Northern Bobwhite}
+							{Colinus virginianus}
+				Pheasants Grouse & Allies (Family Phasianidae)
+					{Pheasants Grouse & Allies}
+					{Phasianidae}
+					Rock Partridges (Genus Alectoris)
+						{Rock Partridges}
+						{Alectoris}
+						Chukar (Alectoris chukar)
+							{Chukar}
+							{Alectoris chukar}
+					Ruffed Grouse (Genus Bonasa)
+						{Ruffed Grouse}
+						{Bonasa}
+						Ruffed Grouse (Bonasa umbellus)
+							{Ruffed Grouse}
+							{Bonasa umbellus}
+					Junglefowl (Genus Gallus)
+						{Junglefowl}
+						{Gallus}
+						Red Junglefowl (Gallus gallus)
+							{Red Junglefowl}
+							{Gallus gallus}
+					Turkeys (Genus Meleagris)
+						{Turkeys}
+						{Meleagris}
+						Wild Turkey (Meleagris gallopavo)
+							{Wild Turkey}
+							{Meleagris gallopavo}
+					Peafowl (Genus Pavo)
+						{Peafowl}
+						{Pavo}
+						Indian Peafowl (Pavo cristatus)
+							{Indian Peafowl}
+							{Pavo cristatus}
+					Genus Phasianus
+						{Phasianus}
+						Ring-necked Pheasant (Phasianus colchicus)
+							{Ring-necked Pheasant}
+							{Phasianus colchicus}
+				Loons (Order Gaviiformes)
+					{Loons}
+					{Gaviiformes}
+				Loons (Family Gaviidae)
+					{Loons}
+					{Gaviidae}
+					Loons (Genus Gavia)
+						{Loons}
+						{Gavia}
+						Common Loon (Gavia immer)
+							{Common Loon}
+							{Gavia immer}
+						Red-throated Loon (Gavia stellata)
+							{Red-throated Loon}
+							{Gavia stellata}
+				Cranes Rails & Allies (Order Gruiformes)
+					{Cranes Rails & Allies}
+					{Gruiformes}
+				Limpkins (Family Aramidae)
+					{Limpkins}
+					{Aramidae}
+					Limkins (Genus Aramus)
+						{Limkins}
+						{Aramus}
+						Limpkin (Aramus guarauna)
+							{Limpkin}
+							{Aramus guarauna}
+				Cranes (Family Gruidae)
+					{Cranes}
+					{Gruidae}
+					Antigone Cranes (Genus Antigone)
+						{Antigone Cranes}
+						{Antigone}
+						Sandhill Crane (Antigone canadensis)
+							{Sandhill Crane}
+							{Antigone canadensis}
+					Grus Cranes (Genus Grus)
+						{Grus Cranes}
+						{Grus}
+						Whooping Crane (Grus americana)
+							{Whooping Crane}
+							{Grus americana}
+				Finfoots (Family Heliornithidae)
+					{Finfoots}
+					{Heliornithidae}
+				Trumpeters (Family Psophiidae)
+					{Trumpeters}
+					{Psophiidae}
+				Rails Gallinules & Coots (Family Rallidae)
+					{Rails Gallinules & Coots}
+					{Rallidae}
+					Coots (Genus Fulica)
+						{Coots}
+						{Fulica}
+						American Coot (Fulica americana)
+							{American Coot}
+							{Fulica americana}
+					Typical Moorhens (Genus Gallinula)
+						{Typical Moorhens}
+						{Gallinula}
+						Common Gallinule (Gallinula galeata)
+							{Common Gallinule}
+							{Gallinula galeata}
+					Laterallus Crakes (Genus Laterallus)
+						{Laterallus Crakes}
+						{Laterallus}
+						Black Rail (Laterallus jamaicensis)
+							{Black Rail}
+							{Laterallus jamaicensis}
+					Swamphens and Blue Gallinules (Genus Porphyrio)
+						{Swamphens and Blue Gallinules}
+						{Porphyrio}
+						Purple Gallinule (Porphyrio martinica)
+							{Purple Gallinule}
+							{Porphyrio martinica}
+					Porzana Crakes (Genus Porzana)
+						{Porzana Crakes}
+						{Porzana}
+						Sora (Porzana carolina)
+							{Sora}
+							{Porzana carolina}
+					Typical Rails (Genus Rallus)
+						{Typical Rails}
+						{Rallus}
+						Clapper Rail (Rallus crepitans)
+							{Clapper Rail}
+							{Rallus crepitans}
+						King Rail (Rallus elegans)
+							{King Rail}
+							{Rallus elegans}
+						Virginia Rail (Rallus limicola)
+							{Virginia Rail}
+							{Rallus limicola}
+				Flufftails & Allies (Family Sarothruridae)
+					{Flufftails & Allies}
+					{Sarothruridae}
+				Cuckoo-rollers (Order Leptosomiformes)
+					{Cuckoo-rollers}
+					{Leptosomiformes}
+				Mesites (Order Mesitornithiformes)
+					{Mesites}
+					{Mesitornithiformes}
+				Turacos (Order Musophagiformes)
+					{Turacos}
+					{Musophagiformes}
+				Hoatzins (Order Opisthocomiformes)
+					{Hoatzins}
+					{Opisthocomiformes}
+				Bustards (Order Otidiformes)
+					{Bustards}
+					{Otidiformes}
+				Perching Birds (Order Passeriformes)
+					{Perching Birds}
+					{Passeriformes}
+				New Zealand Wrens (Family Acanthisittidae)
+					{New Zealand Wrens}
+					{Acanthisittidae}
+				Thornbills & Allies (Family Acanthizidae)
+					{Thornbills & Allies}
+					{Acanthizidae}
+				Reed Warblers & Allies (Family Acrocephalidae)
+					{Reed Warblers & Allies}
+					{Acrocephalidae}
+				Long-tailed Tits (Family Aegithalidae)
+					{Long-tailed Tits}
+					{Aegithalidae}
+				Ioras (Family Aegithinidae)
+					{Ioras}
+					{Aegithinidae}
+				Larks (Family Alaudidae)
+					{Larks}
+					{Alaudidae}
+					Horned Larks (Genus Eremophila)
+						{Horned Larks}
+						{Eremophila}
+						Horned Lark (Eremophila alpestris)
+							{Horned Lark}
+							{Eremophila alpestris}
+				Woodswallows Butcherbirds Currawongs & Peltops (Family Artamidae)
+					{Woodswallows Butcherbirds Currawongs & Peltops}
+					{Artamidae}
+				Scrub-birds (Family Atrichornithidae)
+					{Scrub-birds}
+					{Atrichornithidae}
+				Malagasy Warblers (Family Bernieridae)
+					{Malagasy Warblers}
+					{Bernieridae}
+				Waxwings (Family Bombycillidae)
+					{Waxwings}
+					{Bombycillidae}
+					Waxwings (Genus Bombycilla)
+						{Waxwings}
+						{Bombycilla}
+						Cedar Waxwing (Bombycilla cedrorum)
+							{Cedar Waxwing}
+							{Bombycilla cedrorum}
+						Bohemian Waxwing (Bombycilla garrulus)
+							{Bohemian Waxwing}
+							{Bombycilla garrulus}
+				Oxpeckers (Family Buphagidae)
+					{Oxpeckers}
+					{Buphagidae}
+				Longspurs & Snow Buntings (Family Calcariidae)
+					{Longspurs & Snow Buntings}
+					{Calcariidae}
+					Typical Longspurs (Genus Calcarius)
+						{Typical Longspurs}
+						{Calcarius}
+						Lapland Longspur (Calcarius lapponicus)
+							{Lapland Longspur}
+							{Calcarius lapponicus}
+					Snow and Mckay's Buntings (Genus Plectrophenax)
+						{Snow and Mckay's Buntings}
+						{Plectrophenax}
+						Snow Bunting (Plectrophenax nivalis)
+							{Snow Bunting}
+							{Plectrophenax nivalis}
+				New Zealand Wattlebirds (Family Callaeidae)
+					{New Zealand Wattlebirds}
+					{Callaeidae}
+				African & Green Broadbills (Family Calyptomenidae)
+					{African & Green Broadbills}
+					{Calyptomenidae}
+				Chat-tanagers (Family Calyptophilidae)
+					{Chat-tanagers}
+					{Calyptophilidae}
+				Cuckooshrikes (Family Campephagidae)
+					{Cuckooshrikes}
+					{Campephagidae}
+				Cardinals & Allies (Family Cardinalidae)
+					{Cardinals & Allies}
+					{Cardinalidae}
+					Typical Cardinals (Genus Cardinalis)
+						{Typical Cardinals}
+						{Cardinalis}
+						Northern Cardinal (Cardinalis cardinalis)
+							{Northern Cardinal}
+							{Cardinalis cardinalis}
+					North American Buntings (Genus Passerina)
+						{North American Buntings}
+						{Passerina}
+						Blue Grosbeak (Passerina caerulea)
+							{Blue Grosbeak}
+							{Passerina caerulea}
+						Painted Bunting (Passerina ciris)
+							{Painted Bunting}
+							{Passerina ciris}
+						Indigo Bunting (Passerina cyanea)
+							{Indigo Bunting}
+							{Passerina cyanea}
+					Pheucticus Grosbeaks (Genus Pheucticus)
+						{Pheucticus Grosbeaks}
+						{Pheucticus}
+						Rose-breasted Grosbeak (Pheucticus ludovicianus)
+							{Rose-breasted Grosbeak}
+							{Pheucticus ludovicianus}
+						Black-headed Grosbeak (Pheucticus melanocephalus)
+							{Black-headed Grosbeak}
+							{Pheucticus melanocephalus}
+					Northern Tanagers (Genus Piranga)
+						{Northern Tanagers}
+						{Piranga}
+						Hepatic Tanager (Piranga flava)
+							{Hepatic Tanager}
+							{Piranga flava}
+						Western Tanager (Piranga ludoviciana)
+							{Western Tanager}
+							{Piranga ludoviciana}
+						Scarlet Tanager (Piranga olivacea)
+							{Scarlet Tanager}
+							{Piranga olivacea}
+						Summer Tanager (Piranga rubra)
+							{Summer Tanager}
+							{Piranga rubra}
+					Genus Spiza
+						{Spiza}
+						Dickcissel (Spiza americana)
+							{Dickcissel}
+							{Spiza americana}
+				Treecreepers (Family Certhiidae)
+					{Treecreepers}
+					{Certhiidae}
+					Typical Treecreepers (Genus Certhia)
+						{Typical Treecreepers}
+						{Certhia}
+						Brown Creeper (Certhia americana)
+							{Brown Creeper}
+							{Certhia americana}
+				Rockjumpers (Family Chaetopidae)
+					{Rockjumpers}
+					{Chaetopidae}
+				Leafbirds (Family Chloropseidae)
+					{Leafbirds}
+					{Chloropseidae}
+				Dippers (Family Cinclidae)
+					{Dippers}
+					{Cinclidae}
+				Quail-thrushes & Jewel-babblers (Family Cinclosomatidae)
+					{Quail-thrushes & Jewel-babblers}
+					{Cinclosomatidae}
+				Cisticolas & Allies (Family Cisticolidae)
+					{Cisticolas & Allies}
+					{Cisticolidae}
+				Australasian Treecreepers (Family Climacteridae)
+					{Australasian Treecreepers}
+					{Climacteridae}
+				Satinbirds (Family Cnemophilidae)
+					{Satinbirds}
+					{Cnemophilidae}
+				Gnateaters (Family Conopophagidae)
+					{Gnateaters}
+					{Conopophagidae}
+				Australian Mudnesters (Family Corcoracidae)
+					{Australian Mudnesters}
+					{Corcoracidae}
+				Crows Jays & Magpies (Family Corvidae)
+					{Crows Jays & Magpies}
+					{Corvidae}
+					Scrub-jays & Allies (Genus Aphelocoma)
+						{Scrub-jays & Allies}
+						{Aphelocoma}
+						Woodhouse's Scrub-jay (Aphelocoma woodhouseii)
+							{Woodhouse's Scrub-jay}
+							{Aphelocoma woodhouseii}
+					Crows & Ravens (Genus Corvus)
+						{Crows & Ravens}
+						{Corvus}
+						American Crow (Corvus brachyrhynchos)
+							{American Crow}
+							{Corvus brachyrhynchos}
+						Common Raven (Corvus corax)
+							{Common Raven}
+							{Corvus corax}
+						Fish Crow (Corvus ossifragus)
+							{Fish Crow}
+							{Corvus ossifragus}
+					Blue & Steller's Jays (Genus Cyanocitta)
+						{Blue & Steller's Jays}
+						{Cyanocitta}
+						Blue Jay (Cyanocitta cristata)
+							{Blue Jay}
+							{Cyanocitta cristata}
+					Cyanocorax Jays (Genus Cyanocorax)
+						{Cyanocorax Jays}
+						{Cyanocorax}
+						Green Jay (Cyanocorax yncas)
+							{Green Jay}
+							{Cyanocorax yncas}
+					Boreal Jays (Genus Perisoreus)
+						{Boreal Jays}
+						{Perisoreus}
+						Canada Jay (Perisoreus canadensis)
+							{Canada Jay}
+							{Perisoreus canadensis}
+				Cotingas (Family Cotingidae)
+					{Cotingas}
+					{Cotingidae}
+				Bristlebirds (Family Dasyornithidae)
+					{Bristlebirds}
+					{Dasyornithidae}
+				Flowerpeckers (Family Dicaeidae)
+					{Flowerpeckers}
+					{Dicaeidae}
+				Drongos (Family Dicruridae)
+					{Drongos}
+					{Dicruridae}
+				Donacobiuses (Family Donacobiidae)
+					{Donacobiuses}
+					{Donacobiidae}
+				Palmchats (Family Dulidae)
+					{Palmchats}
+					{Dulidae}
+				Elachuras (Family Elachuridae)
+					{Elachuras}
+					{Elachuridae}
+				Old World Buntings (Family Emberizidae)
+					{Old World Buntings}
+					{Emberizidae}
+				Waxbills & Allies (Family Estrildidae)
+					{Waxbills & Allies}
+					{Estrildidae}
+					Munias and Australasian Mannikins (Genus Lonchura)
+						{Munias and Australasian Mannikins}
+						{Lonchura}
+						Scaly-breasted Munia (Lonchura punctulata)
+							{Scaly-breasted Munia}
+							{Lonchura punctulata}
+				Ploughbills (Family Eulacestomatidae)
+					{Ploughbills}
+					{Eulacestomatidae}
+				Rail-babblers (Family Eupetidae)
+					{Rail-babblers}
+					{Eupetidae}
+				Typical Broadbills (Family Eurylaimidae)
+					{Typical Broadbills}
+					{Eurylaimidae}
+				Shrike-tits (Family Falcunculidae)
+					{Shrike-tits}
+					{Falcunculidae}
+				Antthrushes (Family Formicariidae)
+					{Antthrushes}
+					{Formicariidae}
+				Finches Euphonias & Allies (Family Fringillidae)
+					{Finches Euphonias & Allies}
+					{Fringillidae}
+					Redpolls (Genus Acanthis)
+						{Redpolls}
+						{Acanthis}
+						Common Redpoll (Acanthis flammea)
+							{Common Redpoll}
+							{Acanthis flammea}
+						Hoary Redpoll (Acanthis hornemanni)
+							{Hoary Redpoll}
+							{Acanthis hornemanni}
+					Eurasian Goldfinches and Citril Finches (Genus Carduelis)
+						{Eurasian Goldfinches and Citril Finches}
+						{Carduelis}
+						British Goldfinch (Carduelis carduelis)
+							{British Goldfinch}
+							{Carduelis carduelis}
+					Amercian Rosefinches (Genus Haemorhous)
+						{Amercian Rosefinches}
+						{Haemorhous}
+						House Finch (Haemorhous mexicanus)
+							{House Finch}
+							{Haemorhous mexicanus}
+						Purple Finch (Haemorhous purpureus)
+							{Purple Finch}
+							{Haemorhous purpureus}
+					Crossbills (Genus Loxia)
+						{Crossbills}
+						{Loxia}
+						Red Crossbill (Loxia curvirostra)
+							{Red Crossbill}
+							{Loxia curvirostra}
+						White-winged Crossbill (Loxia leucoptera)
+							{White-winged Crossbill}
+							{Loxia leucoptera}
+					Siskins & New World Goldfinches (Genus Spinus)
+						{Siskins & New World Goldfinches}
+						{Spinus}
+						Pine Siskin (Spinus pinus)
+							{Pine Siskin}
+							{Spinus pinus}
+						Lesser Goldfinch (Spinus psaltria)
+							{Lesser Goldfinch}
+							{Spinus psaltria}
+						American Goldfinch (Spinus tristis)
+							{American Goldfinch}
+							{Spinus tristis}
+				Ovenbirds & Woodcreepers (Family Furnariidae)
+					{Ovenbirds & Woodcreepers}
+					{Furnariidae}
+				Antpittas (Family Grallariidae)
+					{Antpittas}
+					{Grallariidae}
+				Swallows & Martins (Family Hirundinidae)
+					{Swallows & Martins}
+					{Hirundinidae}
+					Typical Swallows (Genus Hirundo)
+						{Typical Swallows}
+						{Hirundo}
+						Barn Swallow (Hirundo rustica)
+							{Barn Swallow}
+							{Hirundo rustica}
+					Cliff Swallows and Allies (Genus Petrochelidon)
+						{Cliff Swallows and Allies}
+						{Petrochelidon}
+						Cave Swallow (Petrochelidon fulva)
+							{Cave Swallow}
+							{Petrochelidon fulva}
+						Cliff Swallow (Petrochelidon pyrrhonota)
+							{Cliff Swallow}
+							{Petrochelidon pyrrhonota}
+					New World Martins (Genus Progne)
+						{New World Martins}
+						{Progne}
+						Purple Martin (Progne subis)
+							{Purple Martin}
+							{Progne subis}
+					Sand Martins Plain Martins and Allies (Genus Riparia)
+						{Sand Martins Plain Martins and Allies}
+						{Riparia}
+						Bank Swallow (Riparia riparia)
+							{Bank Swallow}
+							{Riparia riparia}
+					Rough-winged Swallows (Genus Stelgidopteryx)
+						{Rough-winged Swallows}
+						{Stelgidopteryx}
+						Northern Rough-winged Swallow (Stelgidopteryx serripennis)
+							{Northern Rough-winged Swallow}
+							{Stelgidopteryx serripennis}
+					Tachycineta Swallows (Genus Tachycineta)
+						{Tachycineta Swallows}
+						{Tachycineta}
+						Tree Swallow (Tachycineta bicolor)
+							{Tree Swallow}
+							{Tachycineta bicolor}
+				Hyliotas (Family Hyliotidae)
+					{Hyliotas}
+					{Hyliotidae}
+				Hylocitreas (Family Hylocitreidae)
+					{Hylocitreas}
+					{Hylocitreidae}
+				Hypocoliuses (Family Hypocoliidae)
+					{Hypocoliuses}
+					{Hypocoliidae}
+				New World Blackbirds & Orioles (Family Icteridae)
+					{New World Blackbirds & Orioles}
+					{Icteridae}
+					Agelaius Blackbirds (Genus Agelaius)
+						{Agelaius Blackbirds}
+						{Agelaius}
+						Red-winged Blackbird (Agelaius phoeniceus)
+							{Red-winged Blackbird}
+							{Agelaius phoeniceus}
+					Bobolinks  (Genus Dolichonyx)
+						{Bobolinks }
+						{Dolichonyx}
+						Bobolink (Dolichonyx oryzivorus)
+							{Bobolink}
+							{Dolichonyx oryzivorus}
+					Rusty and Brewer's Blackbirds (Genus Euphagus)
+						{Rusty and Brewer's Blackbirds}
+						{Euphagus}
+						Rusty Blackbird (Euphagus carolinus)
+							{Rusty Blackbird}
+							{Euphagus carolinus}
+						Brewer's Blackbird (Euphagus cyanocephalus)
+							{Brewer's Blackbird}
+							{Euphagus cyanocephalus}
+					New World Orioles (Genus Icterus)
+						{New World Orioles}
+						{Icterus}
+						Hooded Oriole (Icterus cucullatus)
+							{Hooded Oriole}
+							{Icterus cucullatus}
+						Baltimore Oriole (Icterus galbula)
+							{Baltimore Oriole}
+							{Icterus galbula}
+						Orchard Oriole (Icterus spurius)
+							{Orchard Oriole}
+							{Icterus spurius}
+					Cowbirds (Genus Molothrus)
+						{Cowbirds}
+						{Molothrus}
+						Bronzed Cowbird (Molothrus aeneus)
+							{Bronzed Cowbird}
+							{Molothrus aeneus}
+						Brown-headed Cowbird (Molothrus ater)
+							{Brown-headed Cowbird}
+							{Molothrus ater}
+					Grackles (Genus Quiscalus)
+						{Grackles}
+						{Quiscalus}
+						Boat-tailed Grackle (Quiscalus major)
+							{Boat-tailed Grackle}
+							{Quiscalus major}
+						Great-tailed Grackle (Quiscalus mexicanus)
+							{Great-tailed Grackle}
+							{Quiscalus mexicanus}
+						Common Grackle (Quiscalus quiscula)
+							{Common Grackle}
+							{Quiscalus quiscula}
+					Eastern and Western Meadowlarks (Genus Sturnella)
+						{Eastern and Western Meadowlarks}
+						{Sturnella}
+						Eastern Meadowlark (Sturnella magna)
+							{Eastern Meadowlark}
+							{Sturnella magna}
+						Western Meadowlark (Sturnella neglecta)
+							{Western Meadowlark}
+							{Sturnella neglecta}
+					Genus Xanthocephalus
+						{Xanthocephalus}
+						Yellow-headed Blackbird (Xanthocephalus xanthocephalus)
+							{Yellow-headed Blackbird}
+							{Xanthocephalus xanthocephalus}
+				Yellow-breasted Chats (Family Icteriidae)
+					{Yellow-breasted Chats}
+					{Icteriidae}
+					Genus Icteria
+						{Icteria}
+						Yellow-breasted Chat (Icteria virens)
+							{Yellow-breasted Chat}
+							{Icteria virens}
+				Ifritas (Family Ifritidae)
+					{Ifritas}
+					{Ifritidae}
+				Fairy-bluebirds (Family Irenidae)
+					{Fairy-bluebirds}
+					{Irenidae}
+				Shrikes (Family Laniidae)
+					{Shrikes}
+					{Laniidae}
+					Typical Shrikes (Genus Lanius)
+						{Typical Shrikes}
+						{Lanius}
+						Northern Shrike (Lanius borealis)
+							{Northern Shrike}
+							{Lanius borealis}
+						Loggerhead Shrike (Lanius ludovicianus)
+							{Loggerhead Shrike}
+							{Lanius ludovicianus}
+				Laughingthrushes & Allies (Family Leiothrichidae)
+					{Laughingthrushes & Allies}
+					{Leiothrichidae}
+				Grassbirds & Allies (Family Locustellidae)
+					{Grassbirds & Allies}
+					{Locustellidae}
+				Boatbills (Family Machaerirhynchidae)
+					{Boatbills}
+					{Machaerirhynchidae}
+				African Warblers (Family Macrosphenidae)
+					{African Warblers}
+					{Macrosphenidae}
+				Bushshrikes & Allies (Family Malaconotidae)
+					{Bushshrikes & Allies}
+					{Malaconotidae}
+				Fairywrens & Allies (Family Maluridae)
+					{Fairywrens & Allies}
+					{Maluridae}
+				Melampittas (Family Melampittidae)
+					{Melampittas}
+					{Melampittidae}
+				Berrypeckers & Longbills (Family Melanocharitidae)
+					{Berrypeckers & Longbills}
+					{Melanocharitidae}
+				Crescentchests (Family Melanopareiidae)
+					{Crescentchests}
+					{Melanopareiidae}
+				Honeyeaters (Family Meliphagidae)
+					{Honeyeaters}
+					{Meliphagidae}
+				Lyrebirds (Family Menuridae)
+					{Lyrebirds}
+					{Menuridae}
+				Mockingbirds & Thrashers (Family Mimidae)
+					{Mockingbirds & Thrashers}
+					{Mimidae}
+					Dumetella Catbirds (Genus Dumetella)
+						{Dumetella Catbirds}
+						{Dumetella}
+						Gray Catbird (Dumetella carolinensis)
+							{Gray Catbird}
+							{Dumetella carolinensis}
+					Typical Mockingbirds (Genus Mimus)
+						{Typical Mockingbirds}
+						{Mimus}
+						Northern Mockingbird (Mimus polyglottos)
+							{Northern Mockingbird}
+							{Mimus polyglottos}
+					Typical Thrashers (Genus Toxostoma)
+						{Typical Thrashers}
+						{Toxostoma}
+						Brown Thrasher (Toxostoma rufum)
+							{Brown Thrasher}
+							{Toxostoma rufum}
+				Mitrospingid Tanagers (Family Mitrospingidae)
+					{Mitrospingid Tanagers}
+					{Mitrospingidae}
+				Spot-throat Dapple-throat & Gray-chested Babbler (Family Modulatricidae)
+					{Spot-throat Dapple-throat & Gray-chested Babbler}
+					{Modulatricidae}
+				Whitehead Yellowhead & Pipipi (Family Mohouidae)
+					{Whitehead Yellowhead & Pipipi}
+					{Mohouidae}
+				Monarch Flycatchers (Family Monarchidae)
+					{Monarch Flycatchers}
+					{Monarchidae}
+				Wagtails & Pipits (Family Motacillidae)
+					{Wagtails & Pipits}
+					{Motacillidae}
+					Pipits (Genus Anthus)
+						{Pipits}
+						{Anthus}
+						American Pipit (Anthus rubescens)
+							{American Pipit}
+							{Anthus rubescens}
+				Old World Flycatchers & Chats (Family Muscicapidae)
+					{Old World Flycatchers & Chats}
+					{Muscicapidae}
+					Wheatears and Allies (Genus Oenanthe)
+						{Wheatears and Allies}
+						{Oenanthe}
+						Northern Wheatear (Oenanthe oenanthe)
+							{Northern Wheatear}
+							{Oenanthe oenanthe}
+				Sunbirds & Spiderhunters (Family Nectariniidae)
+					{Sunbirds & Spiderhunters}
+					{Nectariniidae}
+				Sittellas (Family Neosittidae)
+					{Sittellas}
+					{Neosittidae}
+				Puerto Rican Tanagers (Family Nesospingidae)
+					{Puerto Rican Tanagers}
+					{Nesospingidae}
+				Nicators (Family Nicatoridae)
+					{Nicators}
+					{Nicatoridae}
+				Stitchbirds (Family Notiomystidae)
+					{Stitchbirds}
+					{Notiomystidae}
+				Australo-papuan Bellbirds (Family Oreoicidae)
+					{Australo-papuan Bellbirds}
+					{Oreoicidae}
+				Old World Orioles (Family Oriolidae)
+					{Old World Orioles}
+					{Oriolidae}
+				Logrunners (Family Orthonychidae)
+					{Logrunners}
+					{Orthonychidae}
+				Sharpbills Royal Flycatchers & Allies (Family Oxyruncidae)
+					{Sharpbills Royal Flycatchers & Allies}
+					{Oxyruncidae}
+				Whistlers & Allies (Family Pachycephalidae)
+					{Whistlers & Allies}
+					{Pachycephalidae}
+				Reedlings (Family Panuridae)
+					{Reedlings}
+					{Panuridae}
+				Birds-of-paradise (Family Paradisaeidae)
+					{Birds-of-paradise}
+					{Paradisaeidae}
+				Painted Berrypeckers (Family Paramythiidae)
+					{Painted Berrypeckers}
+					{Paramythiidae}
+				Pardalotes (Family Pardalotidae)
+					{Pardalotes}
+					{Pardalotidae}
+				Tits Chickadees & Titmice (Family Paridae)
+					{Tits Chickadees & Titmice}
+					{Paridae}
+					Titmice (Genus Baeolophus)
+						{Titmice}
+						{Baeolophus}
+						Black-crested Titmouse (Baeolophus atricristatus)
+							{Black-crested Titmouse}
+							{Baeolophus atricristatus}
+						Tufted Titmouse (Baeolophus bicolor)
+							{Tufted Titmouse}
+							{Baeolophus bicolor}
+					Chickadees & Allies (Genus Poecile)
+						{Chickadees & Allies}
+						{Poecile}
+						Black-capped Chickadee (Poecile atricapillus)
+							{Black-capped Chickadee}
+							{Poecile atricapillus}
+						Carolina Chickadee (Poecile carolinensis)
+							{Carolina Chickadee}
+							{Poecile carolinensis}
+						Boreal Chickadee (Poecile hudsonicus)
+							{Boreal Chickadee}
+							{Poecile hudsonicus}
+				New World Warblers (Family Parulidae)
+					{New World Warblers}
+					{Parulidae}
+					Genus Cardellina
+						{Cardellina}
+						Canada Warbler (Cardellina canadensis)
+							{Canada Warbler}
+							{Cardellina canadensis}
+						Wilson's Warbler (Cardellina pusilla)
+							{Wilson's Warbler}
+							{Cardellina pusilla}
+					Yellowthroats and Allies (Genus Geothlypis)
+						{Yellowthroats and Allies}
+						{Geothlypis}
+						Kentucky Warbler (Geothlypis formosa)
+							{Kentucky Warbler}
+							{Geothlypis formosa}
+						Mourning Warbler (Geothlypis philadelphia)
+							{Mourning Warbler}
+							{Geothlypis philadelphia}
+						Common Yellowthroat (Geothlypis trichas)
+							{Common Yellowthroat}
+							{Geothlypis trichas}
+					Genus Helmitheros
+						{Helmitheros}
+						Worm-eating Warbler (Helmitheros vermivorum)
+							{Worm-eating Warbler}
+							{Helmitheros vermivorum}
+					Leiothlypis Warblers (Genus Leiothlypis)
+						{Leiothlypis Warblers}
+						{Leiothlypis}
+						Orange-crowned Warbler (Leiothlypis celata)
+							{Orange-crowned Warbler}
+							{Leiothlypis celata}
+						Tennessee Warbler (Leiothlypis peregrina)
+							{Tennessee Warbler}
+							{Leiothlypis peregrina}
+						Nashville Warbler (Leiothlypis ruficapilla)
+							{Nashville Warbler}
+							{Leiothlypis ruficapilla}
+					Genus Limnothlypis
+						{Limnothlypis}
+						Swainson's Warbler (Limnothlypis swainsonii)
+							{Swainson's Warbler}
+							{Limnothlypis swainsonii}
+					Genus Mniotilta
+						{Mniotilta}
+						Black-and-white Warbler (Mniotilta varia)
+							{Black-and-white Warbler}
+							{Mniotilta varia}
+					Connecticut Warbler (Genus Oporornis)
+						{Connecticut Warbler}
+						{Oporornis}
+						Connecticut Warbler (Oporornis agilis)
+							{Connecticut Warbler}
+							{Oporornis agilis}
+					Waterthrushes (Genus Parkesia)
+						{Waterthrushes}
+						{Parkesia}
+						Louisiana Waterthrush (Parkesia motacilla)
+							{Louisiana Waterthrush}
+							{Parkesia motacilla}
+						Northern Waterthrush (Parkesia noveboracensis)
+							{Northern Waterthrush}
+							{Parkesia noveboracensis}
+					Prothonotary Warblers (Genus Protonotaria)
+						{Prothonotary Warblers}
+						{Protonotaria}
+						Prothonotary Warbler (Protonotaria citrea)
+							{Prothonotary Warbler}
+							{Protonotaria citrea}
+					Ovenbird Warblers (Genus Seiurus)
+						{Ovenbird Warblers}
+						{Seiurus}
+						Ovenbird (Seiurus aurocapilla)
+							{Ovenbird}
+							{Seiurus aurocapilla}
+					Setophaga Warblers (Genus Setophaga)
+						{Setophaga Warblers}
+						{Setophaga}
+						Northern Parula (Setophaga americana)
+							{Northern Parula}
+							{Setophaga americana}
+						Black-throated Blue Warbler (Setophaga caerulescens)
+							{Black-throated Blue Warbler}
+							{Setophaga caerulescens}
+						Bay-breasted Warbler (Setophaga castanea)
+							{Bay-breasted Warbler}
+							{Setophaga castanea}
+						Cerulean Warbler (Setophaga cerulea)
+							{Cerulean Warbler}
+							{Setophaga cerulea}
+						Hooded Warbler (Setophaga citrina)
+							{Hooded Warbler}
+							{Setophaga citrina}
+						Yellow-rumped Warbler (Setophaga coronata)
+							{Yellow-rumped Warbler}
+							{Setophaga coronata}
+						Prairie Warbler (Setophaga discolor)
+							{Prairie Warbler}
+							{Setophaga discolor}
+						Yellow-throated Warbler (Setophaga dominica)
+							{Yellow-throated Warbler}
+							{Setophaga dominica}
+						Blackburnian Warbler (Setophaga fusca)
+							{Blackburnian Warbler}
+							{Setophaga fusca}
+						Magnolia Warbler (Setophaga magnolia)
+							{Magnolia Warbler}
+							{Setophaga magnolia}
+						Palm Warbler (Setophaga palmarum)
+							{Palm Warbler}
+							{Setophaga palmarum}
+						Chestnut-sided Warbler (Setophaga pensylvanica)
+							{Chestnut-sided Warbler}
+							{Setophaga pensylvanica}
+						Yellow Warbler (Setophaga petechia)
+							{Yellow Warbler}
+							{Setophaga petechia}
+						Pine Warbler (Setophaga pinus)
+							{Pine Warbler}
+							{Setophaga pinus}
+						Tropical Parula (Setophaga pitiayumi)
+							{Tropical Parula}
+							{Setophaga pitiayumi}
+						American Redstart (Setophaga ruticilla)
+							{American Redstart}
+							{Setophaga ruticilla}
+						Blackpoll Warbler (Setophaga striata)
+							{Blackpoll Warbler}
+							{Setophaga striata}
+						Cape May Warbler (Setophaga tigrina)
+							{Cape May Warbler}
+							{Setophaga tigrina}
+						Townsend's Warbler (Setophaga townsendi)
+							{Townsend's Warbler}
+							{Setophaga townsendi}
+						Black-throated Green Warbler (Setophaga virens)
+							{Black-throated Green Warbler}
+							{Setophaga virens}
+					Blue-winged and Golden-winged Warblers (Genus Vermivora)
+						{Blue-winged and Golden-winged Warblers}
+						{Vermivora}
+						Golden-winged Warbler (Vermivora chrysoptera)
+							{Golden-winged Warbler}
+							{Vermivora chrysoptera}
+						Blue-winged Warbler (Vermivora cyanoptera)
+							{Blue-winged Warbler}
+							{Vermivora cyanoptera}
+				New World Sparrows (Family Passerellidae)
+					{New World Sparrows}
+					{Passerellidae}
+					Grass Sparrows (Genus Ammodramus)
+						{Grass Sparrows}
+						{Ammodramus}
+						Grasshopper Sparrow (Ammodramus savannarum)
+							{Grasshopper Sparrow}
+							{Ammodramus savannarum}
+					Marsh Sparrows (Genus Ammospiza)
+						{Marsh Sparrows}
+						{Ammospiza}
+						Saltmarsh Sparrow (Ammospiza caudacuta)
+							{Saltmarsh Sparrow}
+							{Ammospiza caudacuta}
+						LeConte's Sparrow (Ammospiza leconteii)
+							{LeConte's Sparrow}
+							{Ammospiza leconteii}
+						Seaside Sparrow (Ammospiza maritima)
+							{Seaside Sparrow}
+							{Ammospiza maritima}
+						Nelson's Sparrow (Ammospiza nelsoni)
+							{Nelson's Sparrow}
+							{Ammospiza nelsoni}
+					Amphispiza Sparrows (Genus Amphispiza)
+						{Amphispiza Sparrows}
+						{Amphispiza}
+						Black-throated Sparrow (Amphispiza bilineata)
+							{Black-throated Sparrow}
+							{Amphispiza bilineata}
+					Baird's and Henslow's Sparrows  (Genus Centronyx)
+						{Baird's and Henslow's Sparrows }
+						{Centronyx}
+						Henslow's Sparrow (Centronyx henslowii)
+							{Henslow's Sparrow}
+							{Centronyx henslowii}
+					Lark Sparrows (Genus Chondestes)
+						{Lark Sparrows}
+						{Chondestes}
+						Lark Sparrow (Chondestes grammacus)
+							{Lark Sparrow}
+							{Chondestes grammacus}
+					Juncos (Genus Junco)
+						{Juncos}
+						{Junco}
+						Dark-eyed Junco (Junco hyemalis)
+							{Dark-eyed Junco}
+							{Junco hyemalis}
+					Melospiza Sparrows (Genus Melospiza)
+						{Melospiza Sparrows}
+						{Melospiza}
+						Swamp Sparrow (Melospiza georgiana)
+							{Swamp Sparrow}
+							{Melospiza georgiana}
+						Lincoln's Sparrow (Melospiza lincolnii)
+							{Lincoln's Sparrow}
+							{Melospiza lincolnii}
+						Song Sparrow (Melospiza melodia)
+							{Song Sparrow}
+							{Melospiza melodia}
+					Genus Passerculus
+						{Passerculus}
+						Savannah Sparrow (Passerculus sandwichensis)
+							{Savannah Sparrow}
+							{Passerculus sandwichensis}
+					Genus Passerella
+						{Passerella}
+						Fox Sparrow (Passerella iliaca)
+							{Fox Sparrow}
+							{Passerella iliaca}
+					Genus Peucaea
+						{Peucaea}
+						Bachman's Sparrow (Peucaea aestivalis)
+							{Bachman's Sparrow}
+							{Peucaea aestivalis}
+					Typical Towhees (Genus Pipilo)
+						{Typical Towhees}
+						{Pipilo}
+						Eastern Towhee (Pipilo erythrophthalmus)
+							{Eastern Towhee}
+							{Pipilo erythrophthalmus}
+						Spotted Towhee (Pipilo maculatus)
+							{Spotted Towhee}
+							{Pipilo maculatus}
+					Genus Pooecetes
+						{Pooecetes}
+						Vesper Sparrow (Pooecetes gramineus)
+							{Vesper Sparrow}
+							{Pooecetes gramineus}
+					Spizella Sparrows (Genus Spizella)
+						{Spizella Sparrows}
+						{Spizella}
+						Clay-colored Sparrow (Spizella pallida)
+							{Clay-colored Sparrow}
+							{Spizella pallida}
+						Chipping Sparrow (Spizella passerina)
+							{Chipping Sparrow}
+							{Spizella passerina}
+						Field Sparrow (Spizella pusilla)
+							{Field Sparrow}
+							{Spizella pusilla}
+					American Tree Sparrow (Genus Spizelloides)
+						{American Tree Sparrow}
+						{Spizelloides}
+						American Tree Sparrow (Spizelloides arborea)
+							{American Tree Sparrow}
+							{Spizelloides arborea}
+					Zonotrichia Sparrows (Genus Zonotrichia)
+						{Zonotrichia Sparrows}
+						{Zonotrichia}
+						White-throated Sparrow (Zonotrichia albicollis)
+							{White-throated Sparrow}
+							{Zonotrichia albicollis}
+						White-crowned Sparrow (Zonotrichia leucophrys)
+							{White-crowned Sparrow}
+							{Zonotrichia leucophrys}
+						Harris's Sparrow (Zonotrichia querula)
+							{Harris's Sparrow}
+							{Zonotrichia querula}
+				Old World Sparrows (Family Passeridae)
+					{Old World Sparrows}
+					{Passeridae}
+					True Sparrows (Genus Passer)
+						{True Sparrows}
+						{Passer}
+						House Sparrow (Passer domesticus)
+							{House Sparrow}
+							{Passer domesticus}
+				Ground Babblers & Allies (Family Pellorneidae)
+					{Ground Babblers & Allies}
+					{Pellorneidae}
+				Australasian Robins (Family Petroicidae)
+					{Australasian Robins}
+					{Petroicidae}
+				Olive Warblers (Family Peucedramidae)
+					{Olive Warblers}
+					{Peucedramidae}
+				Hispaniolan Tanagers (Family Phaenicophilidae)
+					{Hispaniolan Tanagers}
+					{Phaenicophilidae}
+				Asities (Family Philepittidae)
+					{Asities}
+					{Philepittidae}
+				Leaf Warblers (Family Phylloscopidae)
+					{Leaf Warblers}
+					{Phylloscopidae}
+				Rockfowl (Family Picathartidae)
+					{Rockfowl}
+					{Picathartidae}
+				Manakins (Family Pipridae)
+					{Manakins}
+					{Pipridae}
+				Pittas (Family Pittidae)
+					{Pittas}
+					{Pittidae}
+				Bristleheads (Family Pityriasidae)
+					{Bristleheads}
+					{Pityriasidae}
+				Shrikejays (Family Platylophidae)
+					{Shrikejays}
+					{Platylophidae}
+				Wattle-eyes & Batises (Family Platysteiridae)
+					{Wattle-eyes & Batises}
+					{Platysteiridae}
+				Weavers & Allies (Family Ploceidae)
+					{Weavers & Allies}
+					{Ploceidae}
+					Bishops and Widowbirds (Genus Euplectes)
+						{Bishops and Widowbirds}
+						{Euplectes}
+						Northern Red Bishop (Euplectes franciscanus)
+							{Northern Red Bishop}
+							{Euplectes franciscanus}
+				Cupwings (Family Pnoepygidae)
+					{Cupwings}
+					{Pnoepygidae}
+				Gnatcatchers & Gnatwrens (Family Polioptilidae)
+					{Gnatcatchers & Gnatwrens}
+					{Polioptilidae}
+					Gnatcatchers (Genus Polioptila)
+						{Gnatcatchers}
+						{Polioptila}
+						Blue-gray Gnatcatcher (Polioptila caerulea)
+							{Blue-gray Gnatcatcher}
+							{Polioptila caerulea}
+				Pseudo-babblers (Family Pomatostomidae)
+					{Pseudo-babblers}
+					{Pomatostomidae}
+				Sugarbirds (Family Promeropidae)
+					{Sugarbirds}
+					{Promeropidae}
+				Accentors (Family Prunellidae)
+					{Accentors}
+					{Prunellidae}
+				Whipbirds & Wedgebills (Family Psophodidae)
+					{Whipbirds & Wedgebills}
+					{Psophodidae}
+				Silky-flycatchers (Family Ptiliogonatidae)
+					{Silky-flycatchers}
+					{Ptiliogonatidae}
+				Bowerbirds (Family Ptilonorhynchidae)
+					{Bowerbirds}
+					{Ptilonorhynchidae}
+				Bulbuls (Family Pycnonotidae)
+					{Bulbuls}
+					{Pycnonotidae}
+					Typical Bulbuls (Genus Pycnonotus)
+						{Typical Bulbuls}
+						{Pycnonotus}
+						Red-vented Bulbul (Pycnonotus cafer)
+							{Red-vented Bulbul}
+							{Pycnonotus cafer}
+				Kinglets (Family Regulidae)
+					{Kinglets}
+					{Regulidae}
+					Kinglets (Genus Regulus)
+						{Kinglets}
+						{Regulus}
+						Ruby-crowned Kinglet (Regulus calendula)
+							{Ruby-crowned Kinglet}
+							{Regulus calendula}
+						Golden-crowned Kinglet (Regulus satrapa)
+							{Golden-crowned Kinglet}
+							{Regulus satrapa}
+				Penduline-tits (Family Remizidae)
+					{Penduline-tits}
+					{Remizidae}
+					Genus Auriparus
+						{Auriparus}
+						Verdin (Auriparus flaviceps)
+							{Verdin}
+							{Auriparus flaviceps}
+				Berryhunters (Family Rhagologidae)
+					{Berryhunters}
+					{Rhagologidae}
+				Tapaculos (Family Rhinocryptidae)
+					{Tapaculos}
+					{Rhinocryptidae}
+				Fantails (Family Rhipiduridae)
+					{Fantails}
+					{Rhipiduridae}
+				Thrush-tanagers (Family Rhodinocichlidae)
+					{Thrush-tanagers}
+					{Rhodinocichlidae}
+				Sapayoas (Family Sapayoidae)
+					{Sapayoas}
+					{Sapayoidae}
+				Bush Warblers & Allies (Family Scotocercidae)
+					{Bush Warblers & Allies}
+					{Scotocercidae}
+				Nuthatches (Family Sittidae)
+					{Nuthatches}
+					{Sittidae}
+					Nuthatches (Genus Sitta)
+						{Nuthatches}
+						{Sitta}
+						Red-breasted Nuthatch (Sitta canadensis)
+							{Red-breasted Nuthatch}
+							{Sitta canadensis}
+						White-breasted Nuthatch (Sitta carolinensis)
+							{White-breasted Nuthatch}
+							{Sitta carolinensis}
+						Brown-headed Nuthatch (Sitta pusilla)
+							{Brown-headed Nuthatch}
+							{Sitta pusilla}
+				Spindalises (Family Spindalidae)
+					{Spindalises}
+					{Spindalidae}
+				Fairy Flycatchers (Family Stenostiridae)
+					{Fairy Flycatchers}
+					{Stenostiridae}
+				Starlings (Family Sturnidae)
+					{Starlings}
+					{Sturnidae}
+					European & Spotless Starlings (Genus Sturnus)
+						{European & Spotless Starlings}
+						{Sturnus}
+						European Starling (Sturnus vulgaris)
+							{European Starling}
+							{Sturnus vulgaris}
+				Sylviid Warblers & Parrotbills (Family Sylviidae)
+					{Sylviid Warblers & Parrotbills}
+					{Sylviidae}
+				Cuban Warblers (Family Teretistridae)
+					{Cuban Warblers}
+					{Teretistridae}
+				Typical Antbirds (Family Thamnophilidae)
+					{Typical Antbirds}
+					{Thamnophilidae}
+				Tanagers & Allies (Family Thraupidae)
+					{Tanagers & Allies}
+					{Thraupidae}
+				Wallcreepers (Family Tichodromidae)
+					{Wallcreepers}
+					{Tichodromidae}
+				Tree-babblers Scimitar-babblers & Allies (Family Timaliidae)
+					{Tree-babblers Scimitar-babblers & Allies}
+					{Timaliidae}
+				Tityras & Allies (Family Tityridae)
+					{Tityras & Allies}
+					{Tityridae}
+				Wrens (Family Troglodytidae)
+					{Wrens}
+					{Troglodytidae}
+					Marsh Wrens and Allies (Genus Cistothorus)
+						{Marsh Wrens and Allies}
+						{Cistothorus}
+						Marsh Wren (Cistothorus palustris)
+							{Marsh Wren}
+							{Cistothorus palustris}
+						Sedge Wren (Cistothorus stellaris)
+							{Sedge Wren}
+							{Cistothorus stellaris}
+					Genus Thryomanes
+						{Thryomanes}
+						Bewick's Wren (Thryomanes bewickii)
+							{Bewick's Wren}
+							{Thryomanes bewickii}
+					Thryothorus Wrens (Genus Thryothorus)
+						{Thryothorus Wrens}
+						{Thryothorus}
+						Carolina Wren (Thryothorus ludovicianus)
+							{Carolina Wren}
+							{Thryothorus ludovicianus}
+					Troglodytes Wrens (Genus Troglodytes)
+						{Troglodytes Wrens}
+						{Troglodytes}
+						House Wren (Troglodytes aedon)
+							{House Wren}
+							{Troglodytes aedon}
+						Winter Wren (Troglodytes hiemalis)
+							{Winter Wren}
+							{Troglodytes hiemalis}
+				Thrushes (Family Turdidae)
+					{Thrushes}
+					{Turdidae}
+					Brown Thrushes and Nightingale-Thrushes (Genus Catharus)
+						{Brown Thrushes and Nightingale-Thrushes}
+						{Catharus}
+						Bicknell's Thrush (Catharus bicknelli)
+							{Bicknell's Thrush}
+							{Catharus bicknelli}
+						Veery (Catharus fuscescens)
+							{Veery}
+							{Catharus fuscescens}
+						Hermit Thrush (Catharus guttatus)
+							{Hermit Thrush}
+							{Catharus guttatus}
+						Gray-cheeked Thrush (Catharus minimus)
+							{Gray-cheeked Thrush}
+							{Catharus minimus}
+						Swainson's Thrush (Catharus ustulatus)
+							{Swainson's Thrush}
+							{Catharus ustulatus}
+					Genus Hylocichla
+						{Hylocichla}
+						Wood Thrush (Hylocichla mustelina)
+							{Wood Thrush}
+							{Hylocichla mustelina}
+					Bluebirds (Genus Sialia)
+						{Bluebirds}
+						{Sialia}
+						Mountain Bluebird (Sialia currucoides)
+							{Mountain Bluebird}
+							{Sialia currucoides}
+						Eastern Bluebird (Sialia sialis)
+							{Eastern Bluebird}
+							{Sialia sialis}
+					Typical Thrushes (Genus Turdus)
+						{Typical Thrushes}
+						{Turdus}
+						American Robin (Turdus migratorius)
+							{American Robin}
+							{Turdus migratorius}
+				Tyrant Flycatchers (Family Tyrannidae)
+					{Tyrant Flycatchers}
+					{Tyrannidae}
+					Pewees (Genus Contopus)
+						{Pewees}
+						{Contopus}
+						Olive-sided Flycatcher (Contopus cooperi)
+							{Olive-sided Flycatcher}
+							{Contopus cooperi}
+						Greater Pewee (Contopus pertinax)
+							{Greater Pewee}
+							{Contopus pertinax}
+						Eastern Wood-Pewee (Contopus virens)
+							{Eastern Wood-Pewee}
+							{Contopus virens}
+					Empidonax Flycatchers (Genus Empidonax)
+						{Empidonax Flycatchers}
+						{Empidonax}
+						Alder Flycatcher (Empidonax alnorum)
+							{Alder Flycatcher}
+							{Empidonax alnorum}
+						Pacific-slope Flycatcher (Empidonax difficilis)
+							{Pacific-slope Flycatcher}
+							{Empidonax difficilis}
+						Yellow-bellied Flycatcher (Empidonax flaviventris)
+							{Yellow-bellied Flycatcher}
+							{Empidonax flaviventris}
+						Hammond's Flycatcher (Empidonax hammondii)
+							{Hammond's Flycatcher}
+							{Empidonax hammondii}
+						Least Flycatcher (Empidonax minimus)
+							{Least Flycatcher}
+							{Empidonax minimus}
+						Willow Flycatcher (Empidonax traillii)
+							{Willow Flycatcher}
+							{Empidonax traillii}
+						Acadian Flycatcher (Empidonax virescens)
+							{Acadian Flycatcher}
+							{Empidonax virescens}
+					Myiarchus Flycatchers (Genus Myiarchus)
+						{Myiarchus Flycatchers}
+						{Myiarchus}
+						Ash-throated Flycatcher (Myiarchus cinerascens)
+							{Ash-throated Flycatcher}
+							{Myiarchus cinerascens}
+						Great Crested Flycatcher (Myiarchus crinitus)
+							{Great Crested Flycatcher}
+							{Myiarchus crinitus}
+						Brown-crested Flycatcher (Myiarchus tyrannulus)
+							{Brown-crested Flycatcher}
+							{Myiarchus tyrannulus}
+					Kiskadees (Genus Pitangus)
+						{Kiskadees}
+						{Pitangus}
+						Great Kiskadee (Pitangus sulphuratus)
+							{Great Kiskadee}
+							{Pitangus sulphuratus}
+					Genus Pyrocephalus
+						{Pyrocephalus}
+						Vermilion Flycatcher (Pyrocephalus rubinus)
+							{Vermilion Flycatcher}
+							{Pyrocephalus rubinus}
+					Phoebes (Genus Sayornis)
+						{Phoebes}
+						{Sayornis}
+						Eastern Phoebe (Sayornis phoebe)
+							{Eastern Phoebe}
+							{Sayornis phoebe}
+						Say's Phoebe (Sayornis saya)
+							{Say's Phoebe}
+							{Sayornis saya}
+					Kingbirds (Genus Tyrannus)
+						{Kingbirds}
+						{Tyrannus}
+						Couch's Kingbird (Tyrannus couchii)
+							{Couch's Kingbird}
+							{Tyrannus couchii}
+						Gray Kingbird (Tyrannus dominicensis)
+							{Gray Kingbird}
+							{Tyrannus dominicensis}
+						Scissor-tailed Flycatcher (Tyrannus forficatus)
+							{Scissor-tailed Flycatcher}
+							{Tyrannus forficatus}
+						Eastern Kingbird (Tyrannus tyrannus)
+							{Eastern Kingbird}
+							{Tyrannus tyrannus}
+						Western Kingbird (Tyrannus verticalis)
+							{Western Kingbird}
+							{Tyrannus verticalis}
+				Pinktails (Family Urocynchramidae)
+					{Pinktails}
+					{Urocynchramidae}
+				Vangas Helmetshrikes & Allies (Family Vangidae)
+					{Vangas Helmetshrikes & Allies}
+					{Vangidae}
+				Indigobirds & Whydahs (Family Viduidae)
+					{Indigobirds & Whydahs}
+					{Viduidae}
+				Vireos Shrike-babblers & Erpornis (Family Vireonidae)
+					{Vireos Shrike-babblers & Erpornis}
+					{Vireonidae}
+					Vireos (Genus Vireo)
+						{Vireos}
+						{Vireo}
+						Bell's Vireo (Vireo bellii)
+							{Bell's Vireo}
+							{Vireo bellii}
+						Yellow-throated Vireo (Vireo flavifrons)
+							{Yellow-throated Vireo}
+							{Vireo flavifrons}
+						Warbling Vireo (Vireo gilvus)
+							{Warbling Vireo}
+							{Vireo gilvus}
+						White-eyed Vireo (Vireo griseus)
+							{White-eyed Vireo}
+							{Vireo griseus}
+						Red-eyed Vireo (Vireo olivaceus)
+							{Red-eyed Vireo}
+							{Vireo olivaceus}
+						Philadelphia Vireo (Vireo philadelphicus)
+							{Philadelphia Vireo}
+							{Vireo philadelphicus}
+						Blue-headed Vireo (Vireo solitarius)
+							{Blue-headed Vireo}
+							{Vireo solitarius}
+				Wrenthrushes (Family Zeledoniidae)
+					{Wrenthrushes}
+					{Zeledoniidae}
+				White-eyes Yuhinas & Allies (Family Zosteropidae)
+					{White-eyes Yuhinas & Allies}
+					{Zosteropidae}
+				Pelicans Herons Ibises & Allies (Order Pelecaniformes)
+					{Pelicans Herons Ibises & Allies}
+					{Pelecaniformes}
+				Herons Egrets & Bitterns (Family Ardeidae)
+					{Herons Egrets & Bitterns}
+					{Ardeidae}
+					Great Herons (Genus Ardea)
+						{Great Herons}
+						{Ardea}
+						Great Egret (Ardea alba)
+							{Great Egret}
+							{Ardea alba}
+						Grey Heron (Ardea cinerea)
+							{Grey Heron}
+							{Ardea cinerea}
+						Cocoi Heron (Ardea cocoi)
+							{Cocoi Heron}
+							{Ardea cocoi}
+						Goliath Heron (Ardea goliath)
+							{Goliath Heron}
+							{Ardea goliath}
+						Great Blue Heron (Ardea herodias)
+							{Great Blue Heron}
+							{Ardea herodias}
+						Humblot's Heron (Ardea humbloti)
+							{Humblot's Heron}
+							{Ardea humbloti}
+						White-bellied Heron (Ardea insignis)
+							{White-bellied Heron}
+							{Ardea insignis}
+						Intermediate Egret (Ardea intermedia)
+							{Intermediate Egret}
+							{Ardea intermedia}
+						Black-headed Heron (Ardea melanocephala)
+							{Black-headed Heron}
+							{Ardea melanocephala}
+						White-necked Heron (Ardea pacifica)
+							{White-necked Heron}
+							{Ardea pacifica}
+						Purple Heron (Ardea purpurea)
+							{Purple Heron}
+							{Ardea purpurea}
+						Great-billed Heron (Ardea sumatrana)
+							{Great-billed Heron}
+							{Ardea sumatrana}
+					Large Bitterns (Genus Botaurus)
+						{Large Bitterns}
+						{Botaurus}
+						American Bittern (Botaurus lentiginosus)
+							{American Bittern}
+							{Botaurus lentiginosus}
+					Bubulcus Egrets (Genus Bubulcus)
+						{Bubulcus Egrets}
+						{Bubulcus}
+						Cattle Egret (Bubulcus ibis)
+							{Cattle Egret}
+							{Bubulcus ibis}
+					Green-backed Herons (Genus Butorides)
+						{Green-backed Herons}
+						{Butorides}
+						Green Heron (Butorides virescens)
+							{Green Heron}
+							{Butorides virescens}
+					Typical Egrets (Genus Egretta)
+						{Typical Egrets}
+						{Egretta}
+						Egretta Ardesiaca (Egretta Ardesiaca)
+							{Egretta Ardesiaca}
+							{Egretta Ardesiaca}
+						Little Blue Heron (Egretta caerulea)
+							{Little Blue Heron}
+							{Egretta caerulea}
+						Chinese Egret (Egretta Eulophotes)
+							{Chinese Egret}
+							{Egretta Eulophotes}
+						Little Egret (Egretta Garzetta)
+							{Little Egret}
+							{Egretta Garzetta}
+						Egretta Gularis (Egretta Gularis)
+							{Egretta Gularis}
+							{Egretta Gularis}
+						Egretta Novaehollandiae (Egretta Novaehollandiae)
+							{Egretta Novaehollandiae}
+							{Egretta Novaehollandiae}
+						Pied Heron (Egretta Picata)
+							{Pied Heron}
+							{Egretta Picata}
+						Reddish Egret (Egretta rufescens)
+							{Reddish Egret}
+							{Egretta rufescens}
+						Pacific Reef-Heron (Egretta Sacra)
+							{Pacific Reef-Heron}
+							{Egretta Sacra}
+						Snowy Egret (Egretta thula)
+							{Snowy Egret}
+							{Egretta thula}
+						Tricolored Heron (Egretta tricolor)
+							{Tricolored Heron}
+							{Egretta tricolor}
+						Egretta Vinaceigula (Egretta Vinaceigula)
+							{Egretta Vinaceigula}
+							{Egretta Vinaceigula}
+					Small Bitterns (Genus Ixobrychus)
+						{Small Bitterns}
+						{Ixobrychus}
+						Least Bittern (Ixobrychus exilis)
+							{Least Bittern}
+							{Ixobrychus exilis}
+					Nyctanassa Night-herons (Genus Nyctanassa)
+						{Nyctanassa Night-herons}
+						{Nyctanassa}
+						Yellow-crowned Night-Heron (Nyctanassa violacea)
+							{Yellow-crowned Night-Heron}
+							{Nyctanassa violacea}
+					Nycticorax Night-herons (Genus Nycticorax)
+						{Nycticorax Night-herons}
+						{Nycticorax}
+						Black-crowned Night-Heron (Nycticorax nycticorax)
+							{Black-crowned Night-Heron}
+							{Nycticorax nycticorax}
+				Shoebills (Family Balaenicipitidae)
+					{Shoebills}
+					{Balaenicipitidae}
+				Pelicans (Family Pelecanidae)
+					{Pelicans}
+					{Pelecanidae}
+					Pelicans (Genus Pelecanus)
+						{Pelicans}
+						{Pelecanus}
+						Australian Pelican (Pelecanus conspicillatus)
+							{Australian Pelican}
+							{Pelecanus conspicillatus}
+						Dalmatian Pelican (Pelecanus crispus)
+							{Dalmatian Pelican}
+							{Pelecanus crispus}
+						American White Pelican (Pelecanus erythrorhynchos)
+							{American White Pelican}
+							{Pelecanus erythrorhynchos}
+						Brown Pelican (Pelecanus occidentalis)
+							{Brown Pelican}
+							{Pelecanus occidentalis}
+						Great White Pelican (Pelecanus onocrotalus)
+							{Great White Pelican}
+							{Pelecanus onocrotalus}
+						Spot-billed Pelican (Pelecanus philippensis)
+							{Spot-billed Pelican}
+							{Pelecanus philippensis}
+						Pink-backed Pelican (Pelecanus rufescens)
+							{Pink-backed Pelican}
+							{Pelecanus rufescens}
+						Peruvian Pelican (Pelecanus thagus)
+							{Peruvian Pelican}
+							{Pelecanus thagus}
+				Hamerkops (Family Scopidae)
+					{Hamerkops}
+					{Scopidae}
+				Ibises & Spoonbills (Family Threskiornithidae)
+					{Ibises & Spoonbills}
+					{Threskiornithidae}
+					African Crested & Hadada Ibises (Genus Bostrychia)
+						{African Crested & Hadada Ibises}
+						{Bostrychia}
+					Genus Cercibis
+						{Cercibis}
+					White & Scarlet Ibises (Genus Eudocimus)
+						{White & Scarlet Ibises}
+						{Eudocimus}
+						White Ibis (Eudocimus albus)
+							{White Ibis}
+							{Eudocimus albus}
+					Bald Ibises (Genus Geronticus)
+						{Bald Ibises}
+						{Geronticus}
+					Genus Lophotibis
+						{Lophotibis}
+					Genus Mesembrinibis
+						{Mesembrinibis}
+					Genus Nipponia
+						{Nipponia}
+					Genus Phimosus
+						{Phimosus}
+					Spoonbills (Genus Platalea)
+						{Spoonbills}
+						{Platalea}
+						Roseate Spoonbill (Platalea ajaja)
+							{Roseate Spoonbill}
+							{Platalea ajaja}
+						African Spoonbill (Platalea alba)
+							{African Spoonbill}
+							{Platalea alba}
+						Yellow-billed Spoonbill (Platalea flavipes)
+							{Yellow-billed Spoonbill}
+							{Platalea flavipes}
+						Eurasian Spoonbill (Platalea leucorodia)
+							{Eurasian Spoonbill}
+							{Platalea leucorodia}
+						Black-faced Spoonbill (Platalea minor)
+							{Black-faced Spoonbill}
+							{Platalea minor}
+						Royal Spoonbill (Platalea regia)
+							{Royal Spoonbill}
+							{Platalea regia}
+					Plegadis Ibises (Genus Plegadis)
+						{Plegadis Ibises}
+						{Plegadis}
+						White-faced Ibis (Plegadis chihi)
+							{White-faced Ibis}
+							{Plegadis chihi}
+						Glossy Ibis (Plegadis falcinellus)
+							{Glossy Ibis}
+							{Plegadis falcinellus}
+					South Asian Ibises (Genus Pseudibis)
+						{South Asian Ibises}
+						{Pseudibis}
+					Theristicus Ibises (Genus Theristicus)
+						{Theristicus Ibises}
+						{Theristicus}
+					Sacred Ibises & Allies (Genus Threskiornis)
+						{Sacred Ibises & Allies}
+						{Threskiornis}
+				Tropicbirds (Order Phaethontiformes)
+					{Tropicbirds}
+					{Phaethontiformes}
+				Flamingos (Order Phoenicopteriformes)
+					{Flamingos}
+					{Phoenicopteriformes}
+				Woodpeckers Barbets & Allies (Order Piciformes)
+					{Woodpeckers Barbets & Allies}
+					{Piciformes}
+				New World Barbets (Family Capitonidae)
+					{New World Barbets}
+					{Capitonidae}
+				Honeyguides (Family Indicatoridae)
+					{Honeyguides}
+					{Indicatoridae}
+				African Barbets (Family Lybiidae)
+					{African Barbets}
+					{Lybiidae}
+				Asian Barbets (Family Megalaimidae)
+					{Asian Barbets}
+					{Megalaimidae}
+				Woodpeckers (Family Picidae)
+					{Woodpeckers}
+					{Picidae}
+					Bay & Maroon Woodpeckers (Genus Blythipicus)
+						{Bay & Maroon Woodpeckers}
+						{Blythipicus}
+					Large American Woodpeckers (Genus Campephilus)
+						{Large American Woodpeckers}
+						{Campephilus}
+					African Green Woodpeckers (Genus Campethera)
+						{African Green Woodpeckers}
+						{Campethera}
+					Neotropical Crested Woodpeckers (Genus Celeus)
+						{Neotropical Crested Woodpeckers}
+						{Celeus}
+					African Pied Woodpeckers (Genus Chloropicus)
+						{African Pied Woodpeckers}
+						{Chloropicus}
+					Chrysocolaptes Flamebacks (Genus Chrysocolaptes)
+						{Chrysocolaptes Flamebacks}
+						{Chrysocolaptes}
+					Large Yellownapes (Genus Chrysophlegma)
+						{Large Yellownapes}
+						{Chrysophlegma}
+					Flickers & Allies (Genus Colaptes)
+						{Flickers & Allies}
+						{Colaptes}
+						Northern Flicker (Colaptes auratus)
+							{Northern Flicker}
+							{Colaptes auratus}
+					Eurasian Pied Woodpeckers (Genus Dendrocopos)
+						{Eurasian Pied Woodpeckers}
+						{Dendrocopos}
+					Middle Spotted Woodpecker & Allies (Genus Dendrocoptes)
+						{Middle Spotted Woodpecker & Allies}
+						{Dendrocoptes}
+					Dinopium Flamebacks (Genus Dinopium)
+						{Dinopium Flamebacks}
+						{Dinopium}
+					Dryobates Woodpeckers (Genus Dryobates)
+						{Dryobates Woodpeckers}
+						{Dryobates}
+						Red-cockaded Woodpecker (Dryobates borealis)
+							{Red-cockaded Woodpecker}
+							{Dryobates borealis}
+						Downy Woodpecker (Dryobates pubescens)
+							{Downy Woodpecker}
+							{Dryobates pubescens}
+						Ladder-backed Woodpecker (Dryobates scalaris)
+							{Ladder-backed Woodpecker}
+							{Dryobates scalaris}
+						Hairy Woodpecker (Dryobates villosus)
+							{Hairy Woodpecker}
+							{Dryobates villosus}
+					Genus Dryocopus
+						{Dryocopus}
+						Pileated Woodpecker (Dryocopus pileatus)
+							{Pileated Woodpecker}
+							{Dryocopus pileatus}
+					Pale-headed & Bamboo Woodpeckers (Genus Gecinulus)
+						{Pale-headed & Bamboo Woodpeckers}
+						{Gecinulus}
+					Genus Geocolaptes
+						{Geocolaptes}
+					Large-crested Woodpeckers (Genus Hemicircus)
+						{Large-crested Woodpeckers}
+						{Hemicircus}
+					Wrynecks (Genus Jynx)
+						{Wrynecks}
+						{Jynx}
+					Genus Leiopicus
+						{Leiopicus}
+					Tufted Woodpeckers (Genus Meiglyptes)
+						{Tufted Woodpeckers}
+						{Meiglyptes}
+					Melanerpes Woodpeckers (Genus Melanerpes)
+						{Melanerpes Woodpeckers}
+						{Melanerpes}
+						Golden-fronted Woodpecker (Melanerpes aurifrons)
+							{Golden-fronted Woodpecker}
+							{Melanerpes aurifrons}
+						Red-bellied Woodpecker (Melanerpes carolinus)
+							{Red-bellied Woodpecker}
+							{Melanerpes carolinus}
+						Red-headed Woodpecker (Melanerpes erythrocephalus)
+							{Red-headed Woodpecker}
+							{Melanerpes erythrocephalus}
+					Genus Micropternus
+						{Micropternus}
+					Large Asian Woodpeckers (Genus Mulleripicus)
+						{Large Asian Woodpeckers}
+						{Mulleripicus}
+					Genus Nesoctites
+						{Nesoctites}
+					Three-toed Woodpeckers (Genus Picoides)
+						{Three-toed Woodpeckers}
+						{Picoides}
+						Black-backed Woodpecker (Picoides arcticus)
+							{Black-backed Woodpecker}
+							{Picoides arcticus}
+					Neotropical Green Woodpeckers (Genus Piculus)
+						{Neotropical Green Woodpeckers}
+						{Piculus}
+					Typical Piculets (Genus Picumnus)
+						{Typical Piculets}
+						{Picumnus}
+					Green Woodpeckers & Allies (Genus Picus)
+						{Green Woodpeckers & Allies}
+						{Picus}
+					Genus Reinwardtipicus
+						{Reinwardtipicus}
+					Asian Piculets (Genus Sasia)
+						{Asian Piculets}
+						{Sasia}
+					Sapsuckers (Genus Sphyrapicus)
+						{Sapsuckers}
+						{Sphyrapicus}
+						Red-naped Sapsucker (Sphyrapicus nuchalis)
+							{Red-naped Sapsucker}
+							{Sphyrapicus nuchalis}
+						Yellow-bellied Sapsucker (Sphyrapicus varius)
+							{Yellow-bellied Sapsucker}
+							{Sphyrapicus varius}
+					Genus Verreauxia
+						{Verreauxia}
+					Genus Xiphidiopicus
+						{Xiphidiopicus}
+					Pygmy Woodpeckers (Genus Yungipicus)
+						{Pygmy Woodpeckers}
+						{Yungipicus}
+				Toucans (Family Ramphastidae)
+					{Toucans}
+					{Ramphastidae}
+				Toucan-barbets (Family Semnornithidae)
+					{Toucan-barbets}
+					{Semnornithidae}
+				Grebes (Order Podicipediformes)
+					{Grebes}
+					{Podicipediformes}
+				Grebes (Family Podicipedidae)
+					{Grebes}
+					{Podicipedidae}
+					Western & Clark's Grebes (Genus Aechmophorus)
+						{Western & Clark's Grebes}
+						{Aechmophorus}
+					Typical Grebes (Genus Podiceps)
+						{Typical Grebes}
+						{Podiceps}
+						Horned Grebe (Podiceps auritus)
+							{Horned Grebe}
+							{Podiceps auritus}
+						Red-necked Grebe (Podiceps grisegena)
+							{Red-necked Grebe}
+							{Podiceps grisegena}
+						Eared Grebe (Podiceps nigricollis)
+							{Eared Grebe}
+							{Podiceps nigricollis}
+					Pied-billed & Atitlán Grebes (Genus Podilymbus)
+						{Pied-billed & Atitlán Grebes}
+						{Podilymbus}
+						Pied-billed Grebe (Podilymbus podiceps)
+							{Pied-billed Grebe}
+							{Podilymbus podiceps}
+					Hoary-headed & New Zealand Grebes (Genus Poliocephalus)
+						{Hoary-headed & New Zealand Grebes}
+						{Poliocephalus}
+					White-tufted & Titicaca Grebes (Genus Rollandia)
+						{White-tufted & Titicaca Grebes}
+						{Rollandia}
+					Small Grebes (Genus Tachybaptus)
+						{Small Grebes}
+						{Tachybaptus}
+						Least Grebe (Tachybaptus dominicus)
+							{Least Grebe}
+							{Tachybaptus dominicus}
+				Tubenoses (Order Procellariiformes)
+					{Tubenoses}
+					{Procellariiformes}
+				Shearwaters and Petrels (Family Procellariidae)
+					{Shearwaters and Petrels}
+					{Procellariidae}
+					Southern Shearwaters (Genus Ardenna)
+						{Southern Shearwaters}
+						{Ardenna}
+						Great Shearwater (Ardenna gravis)
+							{Great Shearwater}
+							{Ardenna gravis}
+						Sooty Shearwater (Ardenna grisea)
+							{Sooty Shearwater}
+							{Ardenna grisea}
+					Large Shearwaters (Genus Calonectris)
+						{Large Shearwaters}
+						{Calonectris}
+						Atlantic Cory's Shearwater (Calonectris diomedea)
+							{Atlantic Cory's Shearwater}
+							{Calonectris diomedea}
+				Parrots (Order Psittaciformes)
+					{Parrots}
+					{Psittaciformes}
+				New World & African Parrots (Family Psittacidae)
+					{New World & African Parrots}
+					{Psittacidae}
+					Genus Myiopsitta
+						{Myiopsitta}
+						Monk Parakeet (Myiopsitta monachus)
+							{Monk Parakeet}
+							{Myiopsitta monachus}
+				Old World Parrots (Family Psittaculidae)
+					{Old World Parrots}
+					{Psittaculidae}
+					Lovebirds (Genus Agapornis)
+						{Lovebirds}
+						{Agapornis}
+						Rosy-faced Lovebird (Agapornis roseicollis)
+							{Rosy-faced Lovebird}
+							{Agapornis roseicollis}
+					Genus Melopsittacus
+						{Melopsittacus}
+						Budgerigar (Melopsittacus undulatus)
+							{Budgerigar}
+							{Melopsittacus undulatus}
+				Sandgrouse (Order Pterocliformes)
+					{Sandgrouse}
+					{Pterocliformes}
+				Rheas (Order Rheiformes)
+					{Rheas}
+					{Rheiformes}
+				Penguins (Order Sphenisciformes)
+					{Penguins}
+					{Sphenisciformes}
+				Owls (Order Strigiformes)
+					{Owls}
+					{Strigiformes}
+				Typical Owls (Family Strigidae)
+					{Typical Owls}
+					{Strigidae}
+					Forest Owls (Genus Aegolius)
+						{Forest Owls}
+						{Aegolius}
+						Northern Saw-whet Owl (Aegolius acadicus)
+							{Northern Saw-whet Owl}
+							{Aegolius acadicus}
+					Eared Owls & Allies (Genus Asio)
+						{Eared Owls & Allies}
+						{Asio}
+						Short-eared Owl (Asio flammeus)
+							{Short-eared Owl}
+							{Asio flammeus}
+						Long-eared Owl (Asio otus)
+							{Long-eared Owl}
+							{Asio otus}
+					Little Owls & Allies (Genus Athene)
+						{Little Owls & Allies}
+						{Athene}
+					Eagle-owls & Horned Owls (Genus Bubo)
+						{Eagle-owls & Horned Owls}
+						{Bubo}
+						Snowy Owl (Bubo scandiacus)
+							{Snowy Owl}
+							{Bubo scandiacus}
+						Great Horned Owl (Bubo virginianus)
+							{Great Horned Owl}
+							{Bubo virginianus}
+					Neotropical Wood Owls (Genus Ciccaba)
+						{Neotropical Wood Owls}
+						{Ciccaba}
+					Pygmy-owls & Owlets (Genus Glaucidium)
+						{Pygmy-owls & Owlets}
+						{Glaucidium}
+					Genus Gymnasio
+						{Gymnasio}
+					Genus Jubula
+						{Jubula}
+					Fish-owls (Genus Ketupa)
+						{Fish-owls}
+						{Ketupa}
+					Genus Lophostrix
+						{Lophostrix}
+					Genus Margarobyas
+						{Margarobyas}
+					Screech-owls (Genus Megascops)
+						{Screech-owls}
+						{Megascops}
+						Eastern Screech-Owl (Megascops asio)
+							{Eastern Screech-Owl}
+							{Megascops asio}
+					Genus Micrathene
+						{Micrathene}
+					Boobooks & Hawk-owls (Genus Ninox)
+						{Boobooks & Hawk-owls}
+						{Ninox}
+					Scops Owls (Genus Otus)
+						{Scops Owls}
+						{Otus}
+					Genus Psiloscops
+						{Psiloscops}
+					White-faced Owls (Genus Ptilopsis)
+						{White-faced Owls}
+						{Ptilopsis}
+					Spectacled Owls & Allies (Genus Pulsatrix)
+						{Spectacled Owls & Allies}
+						{Pulsatrix}
+					Genus Pyrroglaux
+						{Pyrroglaux}
+					Fishing-owls (Genus Scotopelia)
+						{Fishing-owls}
+						{Scotopelia}
+					Typical Wood Owls (Genus Strix)
+						{Typical Wood Owls}
+						{Strix}
+						Barred Owl (Strix varia)
+							{Barred Owl}
+							{Strix varia}
+					Genus Surnia
+						{Surnia}
+					Genus Taenioptynx
+						{Taenioptynx}
+					Genus Uroglaux
+						{Uroglaux}
+					Genus Xenoglaux
+						{Xenoglaux}
+				Barn-owls (Family Tytonidae)
+					{Barn-owls}
+					{Tytonidae}
+					Barn Masked Grass and Sooty Owls (Genus Tyto)
+						{Barn Masked Grass and Sooty Owls}
+						{Tyto}
+						Barn Owl (Tyto alba)
+							{Barn Owl}
+							{Tyto alba}
+				Ostriches (Order Struthioniformes)
+					{Ostriches}
+					{Struthioniformes}
+				Gannets Cormorants & Allies (Order Suliformes)
+					{Gannets Cormorants & Allies}
+					{Suliformes}
+				Darters (Family Anhingidae)
+					{Darters}
+					{Anhingidae}
+					Darters (Genus Anhinga)
+						{Darters}
+						{Anhinga}
+						Anhinga (Anhinga anhinga)
+							{Anhinga}
+							{Anhinga anhinga}
+						Oriental Darter (Anhinga melanogaster)
+							{Oriental Darter}
+							{Anhinga melanogaster}
+						Australasian Darter (Anhinga novaehollandiae)
+							{Australasian Darter}
+							{Anhinga novaehollandiae}
+						African Darter (Anhinga rufa)
+							{African Darter}
+							{Anhinga rufa}
+				Frigatebirds (Family Fregatidae)
+					{Frigatebirds}
+					{Fregatidae}
+					Frigatebirds (Genus Fregata)
+						{Frigatebirds}
+						{Fregata}
+						Magnificent Frigatebird (Fregata magnificens)
+							{Magnificent Frigatebird}
+							{Fregata magnificens}
+				Cormorants & Shags (Family Phalacrocoracidae)
+					{Cormorants & Shags}
+					{Phalacrocoracidae}
+					American Cormorants (Genus Nannopterum)
+						{American Cormorants}
+						{Nannopterum}
+						Neotropic Cormorant (Nannopterum brasilianum)
+							{Neotropic Cormorant}
+							{Nannopterum brasilianum}
+					Typical Cormorants & Shags (Genus Phalacrocorax)
+						{Typical Cormorants & Shags}
+						{Phalacrocorax}
+						Double-crested Cormorant (Phalacrocorax auritus)
+							{Double-crested Cormorant}
+							{Phalacrocorax auritus}
+						Cape Cormorant (Phalacrocorax capensis)
+							{Cape Cormorant}
+							{Phalacrocorax capensis}
+						Japanese Cormorant (Phalacrocorax capillatus)
+							{Japanese Cormorant}
+							{Phalacrocorax capillatus}
+						Great Cormorant (Phalacrocorax carbo)
+							{Great Cormorant}
+							{Phalacrocorax carbo}
+						Pitt Island Shag (Phalacrocorax featherstoni)
+							{Pitt Island Shag}
+							{Phalacrocorax featherstoni}
+						Black-faced Cormorant (Phalacrocorax fuscescens)
+							{Black-faced Cormorant}
+							{Phalacrocorax fuscescens}
+						Indian Cormorant (Phalacrocorax fuscicollis)
+							{Indian Cormorant}
+							{Phalacrocorax fuscicollis}
+						Bank Cormorant (Phalacrocorax neglectus)
+							{Bank Cormorant}
+							{Phalacrocorax neglectus}
+						Socotra Cormorant (Phalacrocorax nigrogularis)
+							{Socotra Cormorant}
+							{Phalacrocorax nigrogularis}
+						Spotted Shag (Phalacrocorax punctatus)
+							{Spotted Shag}
+							{Phalacrocorax punctatus}
+						Little Black Cormorant (Phalacrocorax sulcirostris)
+							{Little Black Cormorant}
+							{Phalacrocorax sulcirostris}
+						Pied Cormorant (Phalacrocorax varius)
+							{Pied Cormorant}
+							{Phalacrocorax varius}
+				Boobies & Gannets (Family Sulidae)
+					{Boobies & Gannets}
+					{Sulidae}
+					Mulberries (Genus Morus)
+						{Mulberries}
+						{Morus}
+						Northern Gannet (Morus bassanus)
+							{Northern Gannet}
+							{Morus bassanus}
+					Typical Boobies (Genus Sula)
+						{Typical Boobies}
+						{Sula}
+						Brown Booby (Sula leucogaster)
+							{Brown Booby}
+							{Sula leucogaster}
+				Tinamous (Order Tinamiformes)
+					{Tinamous}
+					{Tinamiformes}
+				Trogons & Quetzals (Order Trogoniformes)
+					{Trogons & Quetzals}
+					{Trogoniformes}
+			Elasmobranchs (Class Elasmobranchii)
+				{Elasmobranchs}
+				{Elasmobranchii}
+			Chimaeras (Class Holocephali)
+				{Chimaeras}
+				{Holocephali}
+			Mammals (Class Mammalia)
+				{Mammals}
+				{Mammalia}
+				Even-toed Ungulates & Cetaceans (Order Artiodactyla)
+					{Even-toed Ungulates & Cetaceans}
+					{Artiodactyla}
+				Deer (Family Cervidae)
+					{Deer}
+					{Cervidae}
+					White-tailed & Mule Deer (Genus Odocoileus)
+						{White-tailed & Mule Deer}
+						{Odocoileus}
+						White-tailed Deer (Odocoileus virginianus)
+							{White-tailed Deer}
+							{Odocoileus virginianus}
+				Carnivorans (Order Carnivora)
+					{Carnivorans}
+					{Carnivora}
+				Canids (Family Canidae)
+					{Canids}
+					{Canidae}
+					Wolves & Dogs (Genus Canis)
+						{Wolves & Dogs}
+						{Canis}
+						Domestic Dog (Canis familiaris)
+							{Domestic Dog}
+							{Canis familiaris}
+					Gray Foxes (Genus Urocyon)
+						{Gray Foxes}
+						{Urocyon}
+						Gray Fox (Urocyon cinereoargenteus)
+							{Gray Fox}
+							{Urocyon cinereoargenteus}
+				Felids (Family Felidae)
+					{Felids}
+					{Felidae}
+					Palearctic & African Small Cats (Genus Felis)
+						{Palearctic & African Small Cats}
+						{Felis}
+						Domestic Cat (Felis catus)
+							{Domestic Cat}
+							{Felis catus}
+				Armadillos (Order Cingulata)
+					{Armadillos}
+					{Cingulata}
+				Long-nosed Armadillos (Family Dasypodidae)
+					{Long-nosed Armadillos}
+					{Dasypodidae}
+					Long-nosed Armadillos (Genus Dasypus)
+						{Long-nosed Armadillos}
+						{Dasypus}
+						Nine-banded Armadillo (Dasypus novemcinctus)
+							{Nine-banded Armadillo}
+							{Dasypus novemcinctus}
+				Lagomorphs (Order Lagomorpha)
+					{Lagomorphs}
+					{Lagomorpha}
+				Hares & Rabbits (Family Leporidae)
+					{Hares & Rabbits}
+					{Leporidae}
+					Cottontail Rabbits (Genus Sylvilagus)
+						{Cottontail Rabbits}
+						{Sylvilagus}
+						Swamp Rabbit (Sylvilagus aquaticus)
+							{Swamp Rabbit}
+							{Sylvilagus aquaticus}
+						Eastern Cottontail (Sylvilagus floridanus)
+							{Eastern Cottontail}
+							{Sylvilagus floridanus}
+				Rodents (Order Rodentia)
+					{Rodents}
+					{Rodentia}
+				Squirrels (Family Sciuridae)
+					{Squirrels}
+					{Sciuridae}
+					Tree Squirrels (Genus Sciurus)
+						{Tree Squirrels}
+						{Sciurus}
+						Fox Squirrel (Sciurus niger)
+							{Fox Squirrel}
+							{Sciurus niger}
+				Sirenians (Order Sirenia)
+					{Sirenians}
+					{Sirenia}
+				Manatees (Family Trichechidae)
+					{Manatees}
+					{Trichechidae}
+					Manatees (Genus Trichechus)
+						{Manatees}
+						{Trichechus}
+						West Indian Manatee (Trichechus manatus)
+							{West Indian Manatee}
+							{Trichechus manatus}
+						Florida Manatee (Trichechus manatus ssp. Latirostris)
+							{Florida Manatee}
+							{Trichechus manatus ssp. Latirostris}
+			Reptiles (Class Reptilia)
+				{Reptiles}
+				{Reptilia}
+				Crocodilians (Order Crocodylia)
+					{Crocodilians}
+					{Crocodylia}
+				Alligators & Caimans (Family Alligatoridae)
+					{Alligators & Caimans}
+					{Alligatoridae}
+					Alligators (Genus Alligator)
+						{Alligators}
+						{Alligator}
+						American Alligator (Alligator mississippiensis)
+							{American Alligator}
+							{Alligator mississippiensis}
+				Snakes & Lizards (Order Squamata)
+					{Snakes & Lizards}
+					{Squamata}
+				Glass and Alligator Lizards (Family Anguidae)
+					{Glass and Alligator Lizards}
+					{Anguidae}
+					Eastern Alligator Lizards (Genus Gerrhonotus)
+						{Eastern Alligator Lizards}
+						{Gerrhonotus}
+						Texas Alligator Lizard (Gerrhonotus infernalis)
+							{Texas Alligator Lizard}
+							{Gerrhonotus infernalis}
+				Colubrid Snakes (Family Colubridae)
+					{Colubrid Snakes}
+					{Colubridae}
+					North American Racers (Genus Coluber)
+						{North American Racers}
+						{Coluber}
+						Eastern Yellow-bellied Racer (Coluber constrictor)
+							{Eastern Yellow-bellied Racer}
+							{Coluber constrictor}
+					Rough Earthsnakes (Genus Haldea)
+						{Rough Earthsnakes}
+						{Haldea}
+						Rough Earthsnake (Haldea striatula)
+							{Rough Earthsnake}
+							{Haldea striatula}
+					Hog-nosed Snakes (Genus Heterodon)
+						{Hog-nosed Snakes}
+						{Heterodon}
+						Eastern Hognose Snake (Heterodon platirhinos)
+							{Eastern Hognose Snake}
+							{Heterodon platirhinos}
+					Kingsnakes and Milk Snakes (Genus Lampropeltis)
+						{Kingsnakes and Milk Snakes}
+						{Lampropeltis}
+						Prairie Kingsnake (Lampropeltis calligaster)
+							{Prairie Kingsnake}
+							{Lampropeltis calligaster}
+						Speckled Kingsnake (Lampropeltis holbrooki)
+							{Speckled Kingsnake}
+							{Lampropeltis holbrooki}
+					Whipsnakes (Genus Masticophis)
+						{Whipsnakes}
+						{Masticophis}
+						Western Coachwhip (Masticophis flagellum)
+							{Western Coachwhip}
+							{Masticophis flagellum}
+						Central Texas Whipsnake (Masticophis taeniatus)
+							{Central Texas Whipsnake}
+							{Masticophis taeniatus}
+					Watersnakes (Genus Nerodia)
+						{Watersnakes}
+						{Nerodia}
+						Plain-bellied Watersnake (Nerodia erythrogaster)
+							{Plain-bellied Watersnake}
+							{Nerodia erythrogaster}
+						Broad-banded Watersnake (Nerodia fasciata)
+							{Broad-banded Watersnake}
+							{Nerodia fasciata}
+						Diamondback Watersnake (Nerodia rhombifer)
+							{Diamondback Watersnake}
+							{Nerodia rhombifer}
+					Green Snakes (Genus Opheodrys)
+						{Green Snakes}
+						{Opheodrys}
+						Rough Greensnake (Opheodrys aestivus)
+							{Rough Greensnake}
+							{Opheodrys aestivus}
+					North American Ratsnakes (Genus Pantherophis)
+						{North American Ratsnakes}
+						{Pantherophis}
+						Great Plains Ratsnake (Pantherophis emoryi)
+							{Great Plains Ratsnake}
+							{Pantherophis emoryi}
+						Western Ratsnake (Pantherophis obsoletus)
+							{Western Ratsnake}
+							{Pantherophis obsoletus}
+					Pine Gopher and Bullsnakes (Genus Pituophis)
+						{Pine Gopher and Bullsnakes}
+						{Pituophis}
+						Bullsnake (Pituophis catenifer)
+							{Bullsnake}
+							{Pituophis catenifer}
+					Patch-nosed Snakes (Genus Salvadora)
+						{Patch-nosed Snakes}
+						{Salvadora}
+						Texas Patch-nosed Snake (Salvadora lineata)
+							{Texas Patch-nosed Snake}
+							{Salvadora lineata}
+					Ground Snakes (Genus Sonora)
+						{Ground Snakes}
+						{Sonora}
+						Ground Snake (Sonora semiannulata)
+							{Ground Snake}
+							{Sonora semiannulata}
+					American Brown Snakes (Genus Storeria)
+						{American Brown Snakes}
+						{Storeria}
+						Dekay's Brownsnake (Storeria dekayi)
+							{Dekay's Brownsnake}
+							{Storeria dekayi}
+					Centipede Snakes (Genus Tantilla)
+						{Centipede Snakes}
+						{Tantilla}
+						Flat-headed Snake (Tantilla gracilis)
+							{Flat-headed Snake}
+							{Tantilla gracilis}
+					Garter Snakes (Genus Thamnophis)
+						{Garter Snakes}
+						{Thamnophis}
+						Black-necked Garter Snake (Thamnophis cyrtopsis)
+							{Black-necked Garter Snake}
+							{Thamnophis cyrtopsis}
+						Checkered Garter Snake (Thamnophis marcianus)
+							{Checkered Garter Snake}
+							{Thamnophis marcianus}
+						Redstripe Ribbon Snake (Thamnophis proximus)
+							{Redstripe Ribbon Snake}
+							{Thamnophis proximus}
+						Texas Garter Snake (Thamnophis sirtalis)
+							{Texas Garter Snake}
+							{Thamnophis sirtalis}
+					Lined Snakes (Genus Tropidoclonion)
+						{Lined Snakes}
+						{Tropidoclonion}
+						Lined Snake (Tropidoclonion lineatum)
+							{Lined Snake}
+							{Tropidoclonion lineatum}
+					Smooth Earthsnakes (Genus Virginia)
+						{Smooth Earthsnakes}
+						{Virginia}
+						Smooth Earthsnake (Virginia valeriae)
+							{Smooth Earthsnake}
+							{Virginia valeriae}
+				Anoles (Family Dactyloidae)
+					{Anoles}
+					{Dactyloidae}
+					Anoles (Genus Anolis)
+						{Anoles}
+						{Anolis}
+						Green Anole (Anolis carolinensis)
+							{Green Anole}
+							{Anolis carolinensis}
+						Brown Anole (Anolis sagrei)
+							{Brown Anole}
+							{Anolis sagrei}
+				Elapid Snakes (Family Elapidae)
+					{Elapid Snakes}
+					{Elapidae}
+					Coralsnakes (Genus Micrurus)
+						{Coralsnakes}
+						{Micrurus}
+						Texas Coralsnake (Micrurus tener)
+							{Texas Coralsnake}
+							{Micrurus tener}
+				Typical Geckos (Family Gekkonidae)
+					{Typical Geckos}
+					{Gekkonidae}
+					House Geckos (Genus Hemidactylus)
+						{House Geckos}
+						{Hemidactylus}
+						Mediterranean Gecko (Hemidactylus turcicus)
+							{Mediterranean Gecko}
+							{Hemidactylus turcicus}
+				Curly-tailed Lizards (Family Leiocephalidae)
+					{Curly-tailed Lizards}
+					{Leiocephalidae}
+					Curly-tailed Lizards (Genus Leiocephalus)
+						{Curly-tailed Lizards}
+						{Leiocephalus}
+						Northern Curly-tailed Lizard (Leiocephalus carinatus)
+							{Northern Curly-tailed Lizard}
+							{Leiocephalus carinatus}
+				Threadsnakes (Family Leptotyphlopidae)
+					{Threadsnakes}
+					{Leptotyphlopidae}
+					Caribou (Genus Rena)
+						{Caribou}
+						{Rena}
+						Texas Blind Snake (Rena dulcis)
+							{Texas Blind Snake}
+							{Rena dulcis}
+				Phrynosomatid Lizards (Family Phrynosomatidae)
+					{Phrynosomatid Lizards}
+					{Phrynosomatidae}
+					Genus Cophosaurus
+						{Cophosaurus}
+						Greater Earless Lizard (Cophosaurus texanus)
+							{Greater Earless Lizard}
+							{Cophosaurus texanus}
+					Earless Lizards (Genus Holbrookia)
+						{Earless Lizards}
+						{Holbrookia}
+					California Rock Lizards (Genus Petrosaurus)
+						{California Rock Lizards}
+						{Petrosaurus}
+					Horned Lizards (Genus Phrynosoma)
+						{Horned Lizards}
+						{Phrynosoma}
+					Spiny Lizards (Genus Sceloporus)
+						{Spiny Lizards}
+						{Sceloporus}
+						Prairie Lizard (Sceloporus consobrinus)
+							{Prairie Lizard}
+							{Sceloporus consobrinus}
+						Texas Spiny Lizard (Sceloporus olivaceus)
+							{Texas Spiny Lizard}
+							{Sceloporus olivaceus}
+					Fringe-toed Lizards (Genus Uma)
+						{Fringe-toed Lizards}
+						{Uma}
+					Tree & Bush Lizards (Genus Urosaurus)
+						{Tree & Bush Lizards}
+						{Urosaurus}
+						Texas Tree Lizard (Urosaurus ornatus)
+							{Texas Tree Lizard}
+							{Urosaurus ornatus}
+					Side-blotched Lizards (Genus Uta)
+						{Side-blotched Lizards}
+						{Uta}
+						Common Side-blotched Lizard (Uta stansburiana)
+							{Common Side-blotched Lizard}
+							{Uta stansburiana}
+				Skinks (Family Scincidae)
+					{Skinks}
+					{Scincidae}
+					Toothy Skinks (Genus Plestiodon)
+						{Toothy Skinks}
+						{Plestiodon}
+						Short-lined Skink (Plestiodon tetragrammus)
+							{Short-lined Skink}
+							{Plestiodon tetragrammus}
+					Ground Skinks (Genus Scincella)
+						{Ground Skinks}
+						{Scincella}
+						Little Brown Skink (Scincella lateralis)
+							{Little Brown Skink}
+							{Scincella lateralis}
+				Whiptails and Tegus (Family Teiidae)
+					{Whiptails and Tegus}
+					{Teiidae}
+					Whiptail Lizards (Genus Aspidoscelis)
+						{Whiptail Lizards}
+						{Aspidoscelis}
+						Common Spotted Whiptail (Aspidoscelis gularis)
+							{Common Spotted Whiptail}
+							{Aspidoscelis gularis}
+					Common Water Monitor (Genus Salvator)
+						{Common Water Monitor}
+						{Salvator}
+						Argentine Black-and-white Tegu (Salvator merianae)
+							{Argentine Black-and-white Tegu}
+							{Salvator merianae}
+				Typical Blind Snakes (Family Typhlopidae)
+					{Typical Blind Snakes}
+					{Typhlopidae}
+					Brahminy Blindsnake (Genus Indotyphlops)
+						{Brahminy Blindsnake}
+						{Indotyphlops}
+						Brahminy Blindsnake (Indotyphlops braminus)
+							{Brahminy Blindsnake}
+							{Indotyphlops braminus}
+				Vipers (Family Viperidae)
+					{Vipers}
+					{Viperidae}
+					Copperheads Cottonmouths and Cantils (Genus Agkistrodon)
+						{Copperheads Cottonmouths and Cantils}
+						{Agkistrodon}
+						Broad-banded Copperhead (Agkistrodon laticinctus)
+							{Broad-banded Copperhead}
+							{Agkistrodon laticinctus}
+						Northern Cottonmouth (Agkistrodon piscivorus)
+							{Northern Cottonmouth}
+							{Agkistrodon piscivorus}
+					Rattlesnakes (Genus Crotalus)
+						{Rattlesnakes}
+						{Crotalus}
+						Western Diamond-backed Rattlesnake (Crotalus atrox)
+							{Western Diamond-backed Rattlesnake}
+							{Crotalus atrox}
+				Turtles & Tortoises (Order Testudines)
+					{Turtles & Tortoises}
+					{Testudines}
+				Snapping Turtles (Family Chelydridae)
+					{Snapping Turtles}
+					{Chelydridae}
+					Typical Snapping Turtles (Genus Chelydra)
+						{Typical Snapping Turtles}
+						{Chelydra}
+						Common Snapping Turtle (Chelydra serpentina)
+							{Common Snapping Turtle}
+							{Chelydra serpentina}
+				Pond & Box Turtles (Family Emydidae)
+					{Pond & Box Turtles}
+					{Emydidae}
+					Genus Actinemys
+						{Actinemys}
+					Painted Turtles (Genus Chrysemys)
+						{Painted Turtles}
+						{Chrysemys}
+					Genus Clemmys
+						{Clemmys}
+					Chicken Turtles (Genus Deirochelys)
+						{Chicken Turtles}
+						{Deirochelys}
+					Genus Emydoidea
+						{Emydoidea}
+					European Pond Turtles (Genus Emys)
+						{European Pond Turtles}
+						{Emys}
+					Bog & Wood Turtles (Genus Glyptemys)
+						{Bog & Wood Turtles}
+						{Glyptemys}
+					Map Turtles (Genus Graptemys)
+						{Map Turtles}
+						{Graptemys}
+						Ouachita Map Turtle (Graptemys ouachitensis)
+							{Ouachita Map Turtle}
+							{Graptemys ouachitensis}
+						Northern False Map Turtle (Graptemys pseudogeographica)
+							{Northern False Map Turtle}
+							{Graptemys pseudogeographica}
+						Texas Map Turtle (Graptemys versa)
+							{Texas Map Turtle}
+							{Graptemys versa}
+					Diamondback Terrapins (Genus Malaclemys)
+						{Diamondback Terrapins}
+						{Malaclemys}
+					Cooters (Genus Pseudemys)
+						{Cooters}
+						{Pseudemys}
+						River Cooter (Pseudemys concinna)
+							{River Cooter}
+							{Pseudemys concinna}
+						Florida Redbelly Turtle (Pseudemys nelsoni)
+							{Florida Redbelly Turtle}
+							{Pseudemys nelsoni}
+						Peninsular Cooter (Pseudemys peninsularis)
+							{Peninsular Cooter}
+							{Pseudemys peninsularis}
+						Texas Cooter (Pseudemys texana)
+							{Texas Cooter}
+							{Pseudemys texana}
+					Box Turtles (Genus Terrapene)
+						{Box Turtles}
+						{Terrapene}
+						Three-toed Box Turtle (Terrapene carolina)
+							{Three-toed Box Turtle}
+							{Terrapene carolina}
+						Plains Box Turtle (Terrapene ornata)
+							{Plains Box Turtle}
+							{Terrapene ornata}
+					Sliders (Genus Trachemys)
+						{Sliders}
+						{Trachemys}
+						Red-eared Slider (Trachemys scripta)
+							{Red-eared Slider}
+							{Trachemys scripta}
+				Eurasian Pond River and Neotropical Wood Turtles (Family Geoemydidae)
+					{Eurasian Pond River and Neotropical Wood Turtles}
+					{Geoemydidae}
+					Bedstraws (Genus Mauremys)
+						{Bedstraws}
+						{Mauremys}
+						Common thread turtle (Mauremys sinensis)
+							{Common thread turtle}
+							{Mauremys sinensis}
+				American Mud and Musk Turtles (Family Kinosternidae)
+					{American Mud and Musk Turtles}
+					{Kinosternidae}
+					Mud Turtles (Genus Kinosternon)
+						{Mud Turtles}
+						{Kinosternon}
+						Yellow Mud Turtle (Kinosternon flavescens)
+							{Yellow Mud Turtle}
+							{Kinosternon flavescens}
+					Musk Turtles (Genus Sternotherus)
+						{Musk Turtles}
+						{Sternotherus}
+						Razor-backed Musk Turtle (Sternotherus carinatus)
+							{Razor-backed Musk Turtle}
+							{Sternotherus carinatus}
+						Eastern Musk Turtle (Sternotherus odoratus)
+							{Eastern Musk Turtle}
+							{Sternotherus odoratus}
+				Tortoises (Family Testudinidae)
+					{Tortoises}
+					{Testudinidae}
+					Gopher and Desert Tortoises (Genus Gopherus)
+						{Gopher and Desert Tortoises}
+						{Gopherus}
+						Texas Tortoise (Gopherus berlandieri)
+							{Texas Tortoise}
+							{Gopherus berlandieri}
+				Softshell and Flapshell Turtles (Family Trionychidae)
+					{Softshell and Flapshell Turtles}
+					{Trionychidae}
+					American Softshells (Genus Apalone)
+						{American Softshells}
+						{Apalone}
+						Spiny Softshell (Apalone spinifera)
+							{Spiny Softshell}
+							{Apalone spinifera}
+			Lobe-finned Fishes (Class Sarcopterygii)
+				{Lobe-finned Fishes}
+				{Sarcopterygii}
+	Cnidarians (Phylum Cnidaria)
+		{Cnidarians}
+		{Cnidaria}
+	Comb Jellies (Phylum Ctenophora)
+		{Comb Jellies}
+		{Ctenophora}
+	Cycliophorans (Phylum Cycliophora)
+		{Cycliophorans}
+		{Cycliophora}
+	Dicyemids (Phylum Dicyemida)
+		{Dicyemids}
+		{Dicyemida}
+	Echinoderms (Phylum Echinodermata)
+		{Echinoderms}
+		{Echinodermata}
+	Entoprocts (Phylum Entoprocta)
+		{Entoprocts}
+		{Entoprocta}
+	Gastrotrichs (Phylum Gastrotricha)
+		{Gastrotrichs}
+		{Gastrotricha}
+	Gnathiferans (Phylum Gnathifera)
+		{Gnathiferans}
+		{Gnathifera}
+	Jaw Worms (Phylum Gnathostomulida)
+		{Jaw Worms}
+		{Gnathostomulida}
+	Hemichordates (Phylum Hemichordata)
+		{Hemichordates}
+		{Hemichordata}
+	Mud Dragons (Phylum Kinorhyncha)
+		{Mud Dragons}
+		{Kinorhyncha}
+	Loriciferans (Phylum Loricifera)
+		{Loriciferans}
+		{Loricifera}
+	Mollusks (Phylum Mollusca)
+		{Mollusks}
+		{Mollusca}
+	Nematodes (Phylum Nematoda)
+		{Nematodes}
+		{Nematoda}
+	Horsehair Worms (Phylum Nematomorpha)
+		{Horsehair Worms}
+		{Nematomorpha}
+	Ribbon Worms (Phylum Nemertea)
+		{Ribbon Worms}
+		{Nemertea}
+	Velvet Worms (Phylum Onychophora)
+		{Velvet Worms}
+		{Onychophora}
+	Orthonectids (Phylum Orthonectida)
+		{Orthonectids}
+		{Orthonectida}
+	Horseshoe Worms (Phylum Phoronida)
+		{Horseshoe Worms}
+		{Phoronida}
+	Placozoans (Phylum Placozoa)
+		{Placozoans}
+		{Placozoa}
+	Flatworms (Phylum Platyhelminthes)
+		{Flatworms}
+		{Platyhelminthes}
+	Sponges (Phylum Porifera)
+		{Sponges}
+		{Porifera}
+	Priapulid Worms (Phylum Priapulida)
+		{Priapulid Worms}
+		{Priapulida}
+	Rotifers (Phylum Rotifera)
+		{Rotifers}
+		{Rotifera}
+	Tardigrades (Phylum Tardigrada)
+		{Tardigrades}
+		{Tardigrada}
+	Xenoturbellids & Allies (Phylum Xenacoelomorpha)
+		{Xenoturbellids & Allies}
+		{Xenacoelomorpha}
+Fungi & Lichens : Kingdom Fungi
+	{Fungi & Lichens}
+	{Fungi}
+	Basidiomycete Fungi (Phylum Basidiomycota)
+		{Basidiomycete Fungi}
+		{Basidiomycota}
+		Higher Basidiomycetes (Subphylum Agaricomycotina)
+			{Higher Basidiomycetes}
+			{Agaricomycotina}
+			Class Agaricomycetes (Class Agaricomycetes)
+				{Class Agaricomycetes}
+				{Agaricomycetes}
+				Common Gilled Mushrooms & Allies (Order Agaricales)
+					{Common Gilled Mushrooms & Allies}
+					{Agaricales}
+				Common Gilled Mushrooms & Allies (Family Agaricaceae)
+					{Common Gilled Mushrooms & Allies}
+					{Agaricaceae}
+					Genus Leucocoprinus
+						{Leucocoprinus}
+						Fragile Dapperling (Leucocoprinus fragilissimus)
+							{Fragile Dapperling}
+							{Leucocoprinus fragilissimus}
+				Shelf Fungi (Order Polyporales)
+					{Shelf Fungi}
+					{Polyporales}
+				Family Phaeolaceae (Family Phaeolaceae)
+					{Family Phaeolaceae}
+					{Phaeolaceae}
+					Genus Phaeolus (Genus Phaeolus)
+						{Genus Phaeolus}
+						{Phaeolus}
+						Phaeolus Schweinitzii (Dyer's Polypore)
+							{Phaeolus Schweinitzii}
+							{Dyer's Polypore}
+				Bracket Fungi (Family Polyporaceae)
+					{Bracket Fungi}
+					{Polyporaceae}
+					Honeycomb Fungi (Genus Favolus)
+						{Honeycomb Fungi}
+						{Favolus}
+						Favolus Brasiliensis (Favolus brasiliensis)
+							{Favolus Brasiliensis}
+							{Favolus brasiliensis}
+					Genus Trametes
+						{Trametes}
+						Northern Cinnabar Polypore (Trametes cinnabarina)
+							{Northern Cinnabar Polypore}
+							{Trametes cinnabarina}
+Plants : Kingdom Plantae
+	{Plants}
+	{Plantae}
+	Vascular Plants (Phylum Tracheophyta)
+		{Vascular Plants}
+		{Tracheophyta}
+		Flowering Plants (Subphylum Angiospermae)
+			{Flowering Plants}
+			{Angiospermae}
+			Monocots (Class Liliopsida)
+				{Monocots}
+				{Liliopsida}
+				Palms Bullanocks & Allies (Order Arecales)
+					{Palms Bullanocks & Allies}
+					{Arecales}
+				Palms (Family Arecaceae)
+					{Palms}
+					{Arecaceae}
+					Palmettos (Genus Sabal)
+						{Palmettos}
+						{Sabal}
+						Cabbage Palmetto (Sabal palmetto)
+							{Cabbage Palmetto}
+							{Sabal palmetto}
+				Agaves Orchids Irises & Allies (Order Asparagales)
+					{Agaves Orchids Irises & Allies}
+					{Asparagales}
+				Amaryllis Onions & Allies (Family Amaryllidaceae)
+					{Amaryllis Onions & Allies}
+					{Amaryllidaceae}
+					Spider Lily (Genus Hymenocallis)
+						{Spider Lily}
+						{Hymenocallis}
+						Florida Spiderlily (Hymenocallis tridentata)
+							{Florida Spiderlily}
+							{Hymenocallis tridentata}
+				Orchids (Family Orchidaceae)
+					{Orchids}
+					{Orchidaceae}
+					Bog Orchids (Genus Platanthera)
+						{Bog Orchids}
+						{Platanthera}
+						Orange-fringed Orchid (Platanthera ciliaris)
+							{Orange-fringed Orchid}
+							{Platanthera ciliaris}
+				Gingers Bananas & Allies (Order Zingiberales)
+					{Gingers Bananas & Allies}
+					{Zingiberales}
+				Canna Lilies (Family Cannaceae)
+					{Canna Lilies}
+					{Cannaceae}
+					Canna Lilies (Genus Canna)
+						{Canna Lilies}
+						{Canna}
+						Garden Canna (Canna generalis)
+							{Garden Canna}
+							{Canna generalis}
+						Indian Shot (Canna indica)
+							{Indian Shot}
+							{Canna indica}
+			Dicots (Class Magnoliopsida)
+				{Dicots}
+				{Magnoliopsida}
+				Sunflowers Bellflowers Fanflowers & Allies (Order Asterales)
+					{Sunflowers Bellflowers Fanflowers & Allies}
+					{Asterales}
+				Sunflowers Daisies Asters & Allies (Family Asteraceae)
+					{Sunflowers Daisies Asters & Allies}
+					{Asteraceae}
+					Desert-chicories (Genus Pyrrhopappus)
+						{Desert-chicories}
+						{Pyrrhopappus}
+						Smallflower Desert-chicory (Pyrrhopappus pauciflorus)
+							{Smallflower Desert-chicory}
+							{Pyrrhopappus pauciflorus}
+				Heathers Balsams Primroses & Allies (Order Ericales)
+					{Heathers Balsams Primroses & Allies}
+					{Ericales}
+				New World Pitcher Plants (Family Sarraceniaceae)
+					{New World Pitcher Plants}
+					{Sarraceniaceae}
+					North American Pitcher Plants (Genus Sarracenia)
+						{North American Pitcher Plants}
+						{Sarracenia}
+						White Pitcher Plant (Sarracenia leucophylla)
+							{White Pitcher Plant}
+							{Sarracenia leucophylla}
+				Legumes Milkworts & Allies (Order Fabales)
+					{Legumes Milkworts & Allies}
+					{Fabales}
+				Legumes (Family Fabaceae)
+					{Legumes}
+					{Fabaceae}
+					Riverhemps (Genus Sesbania)
+						{Riverhemps}
+						{Sesbania}
+						Rattlebush (Sesbania drummondii)
+							{Rattlebush}
+							{Sesbania drummondii}
+				Mints Plantains Olives & Allies (Order Lamiales)
+					{Mints Plantains Olives & Allies}
+					{Lamiales}
+				Acanthus Family (Family Acanthaceae)
+					{Acanthus Family}
+					{Acanthaceae}
+					Ruellias (Genus Ruellia)
+						{Ruellias}
+						{Ruellia}
+						Violet Ruellia (Ruellia nudiflora)
+							{Violet Ruellia}
+							{Ruellia nudiflora}
+				Verbena Family (Family Verbenaceae)
+					{Verbena Family}
+					{Verbenaceae}
+					Lantanas (Genus Lantana)
+						{Lantanas}
+						{Lantana}
+						Lantana _ Strigocamara (Lantana _ strigocamara)
+							{Lantana _ Strigocamara}
+							{Lantana _ strigocamara}
+				Nances Willows & Allies (Order Malpighiales)
+					{Nances Willows & Allies}
+					{Malpighiales}
+				Passionfruit Family (Family Passifloraceae)
+					{Passionfruit Family}
+					{Passifloraceae}
+					Passionflowers (Genus Passiflora)
+						{Passionflowers}
+						{Passiflora}
+						Purple Passionflower (Passiflora incarnata)
+							{Purple Passionflower}
+							{Passiflora incarnata}
+				Mallows Rock-roses & Allies (Order Malvales)
+					{Mallows Rock-roses & Allies}
+					{Malvales}
+				Mallow & Hibiscus Family (Family Malvaceae)
+					{Mallow & Hibiscus Family}
+					{Malvaceae}
+					Hibiscuses (Genus Hibiscus)
+						{Hibiscuses}
+						{Hibiscus}
+						Pineland Hibiscus (Hibiscus aculeatus)
+							{Pineland Hibiscus}
+							{Hibiscus aculeatus}
+				Proteas Lotuses Planes & Allies (Order Proteales)
+					{Proteas Lotuses Planes & Allies}
+					{Proteales}
+				Lotus Family (Family Nelumbonaceae)
+					{Lotus Family}
+					{Nelumbonaceae}
+					Lotuses (Genus Nelumbo)
+						{Lotuses}
+						{Nelumbo}
+						American Lotus (Nelumbo lutea)
+							{American Lotus}
+							{Nelumbo lutea}
+		Conifers (Class Pinopsida)
+			{Conifers}
+			{Pinopsida}
+			Conifers (Order Pinales)
+				{Conifers}
+				{Pinales}
+				Pine Family (Family Pinaceae)
+					{Pine Family}
+					{Pinaceae}
+				Pines (Genus Pinus)
+					{Pines}
+					{Pinus}
+					Shortleaf Pine (Species Pinus echinata)
+						{Shortleaf Pine}
+						{Pinus echinata}
